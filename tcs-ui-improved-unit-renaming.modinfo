@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Mod id="tcs-ui-improved-unit-renaming" version="1"
+	xmlns="ModInfo">
+	<Properties>
+		<Name>LOC_MOD_TCS_IMPROVED_UNIT_RENAMING_NAME</Name>
+		<Description>LOC_MOD_TCS_IMPROVED_UNIT_RENAMING_DESCRIPTION</Description>
+		<Authors>LOC_MOD_TCS_IMPROVED_UNIT_RENAMING_AUTHORS</Authors>
+		<SpecialThanks>LOC_MOD_TCS_IMPROVED_UNIT_RENAMING_THANKS</SpecialThanks>
+		<Compatibility>LOC_MOD_TCS_IMPROVED_UNIT_RENAMING_COMPATIBILITY</Compatibility>
+		<URL>LOC_MOD_TCS_IMPROVED_UNIT_RENAMING_URL</URL>
+		<Package>Mod</Package>
+		<AffectsSavedGames>0</AffectsSavedGames>
+		<Version>1</Version>
+	</Properties>
+	<Dependencies>
+		<Mod id="base-standard" title="LOC_MODULE_BASE_STANDARD_NAME" />
+	</Dependencies>
+	<ActionCriteria>
+		<Criteria id="antiquity-age-current">
+			<AgeInUse>AGE_ANTIQUITY</AgeInUse>
+		</Criteria>
+		<Criteria id="exploration-age-current">
+			<AgeInUse>AGE_EXPLORATION</AgeInUse>
+		</Criteria>
+		<Criteria id="modern-age-current">
+			<AgeInUse>AGE_MODERN</AgeInUse>
+		</Criteria>
+		<Criteria id="always">
+			<AlwaysMet></AlwaysMet>
+		</Criteria>
+	</ActionCriteria>
+	<ActionGroups>
+		<ActionGroup id="game-tcs-ui-improved-unit-renaming" scope="game" criteria="always">
+			<Properties>
+				<LoadOrder>100</LoadOrder>
+			</Properties>
+			<Actions>
+				<ImportFiles>
+					<Item>ui/unit-rename/unit-rename.html</Item>
+					<Item>ui/unit-rename/unit-rename.js</Item>
+				</ImportFiles>
+				<UpdateText>
+					<Item>text/en_us/InGameText.xml</Item>
+					<Item>text/en_us/ShellText.xml</Item>
+				</UpdateText>
+			</Actions>
+		</ActionGroup>
+		<ActionGroup id="age-antiquity-tcs-ui-improved-unit-renaming" scope="game" criteria="antiquity-age-current">
+			<Actions>
+				<UpdateDatabase>
+					<Item>data/ModData_Antiquity.sql</Item>
+				</UpdateDatabase>
+			</Actions>
+		</ActionGroup>
+		<ActionGroup id="age-exploration-tcs-ui-improved-unit-renaming" scope="game" criteria="exploration-age-current">
+			<Actions>
+				<UpdateDatabase>
+					<Item>data/ModData_Exploration.sql</Item>
+				</UpdateDatabase>
+			</Actions>
+		</ActionGroup>
+		<ActionGroup id="age-modern-tcs-ui-improved-unit-renaming" scope="game" criteria="modern-age-current">
+			<Actions>
+				<UpdateDatabase>
+					<Item>data/ModData_Modern.sql</Item>
+				</UpdateDatabase>
+			</Actions>
+		</ActionGroup>
+		<ActionGroup id="shell-tcs-ui-improved-unit-renaming" scope="shell" criteria="always">
+			<Properties>
+				<LoadOrder>100</LoadOrder>
+			</Properties>
+			<Actions>
+				<UpdateIcons>
+				</UpdateIcons>
+				<UpdateText>
+					<Item>text/en_us/ShellText.xml</Item>
+				</UpdateText>
+			</Actions>
+		</ActionGroup>
+	</ActionGroups>
+	<LocalizedText>
+		<File>text/en_us/ShellText.xml</File>
+	</LocalizedText>
+</Mod>
