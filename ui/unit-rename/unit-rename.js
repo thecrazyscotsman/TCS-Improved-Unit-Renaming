@@ -7,6 +7,7 @@ import Panel from '/core/ui/panel-support.js';
 import { MustGetElement } from '/core/ui/utilities/utilities-dom.js';
 import { TextBoxTextChangedEventName, TextBoxTextEditStopEventName } from '/core/ui/components/fxs-textbox.js';
 import { InputEngineEventName } from '/core/ui/input/input-support.js';
+import { ComponentID } from '/core/ui/utilities/utilities-component-id.js';
 
 console.warn("----------------------------------");
 console.warn("TCS IMPROVED UNIT RENAMING (TCS-IUR) - LOADED");
@@ -170,7 +171,7 @@ class UnitRename extends Panel {
 		// Taken from the CivilizationCitizenNames table, which is populated with person names
 		// Example: "Admiral" + " " + "Inez"
 		
-		console.warn("[TCS-IUR] Prefix Type: '" + prefixType + "' | Suffix Type: '" + suffixType + "'");
+		if (this.debugRenamer == true) {console.warn("[TCS-IUR] Prefix Type: '" + prefixType + "' | Suffix Type: '" + suffixType + "'");}
 		
 		
 		// Get Age info
@@ -204,6 +205,8 @@ class UnitRename extends Panel {
 			else {citizenNames = GameInfo.CivilizationCitizenNames.filter(item => (item.CivilizationType == localCivType));}
 			
 			let randomSuffix;
+
+			// Fallback if there are no Citizen names
 			if (!citizenNames || citizenNames.length == 0) {
 				const armySuffixes = GameInfo.UnitNames.filter(item => (item.NameType == suffixType));
 				const randomSuffix = this.findValidTextKey_UnitNames(armySuffixes);
@@ -218,59 +221,90 @@ class UnitRename extends Panel {
 				if (citizenNames[randomSuffix].Female == 1) {
 					gender = 'FEMALE';
 				}
-				console.warn("[TCS-IUR] Generated Citizen suffix: '" + suffix + "'");
+				if (this.debugRenamer == true) {console.warn("[TCS-IUR] Generated Citizen suffix: '" + suffix + "'");}
 			}
 		}
 		else {
 			const armySuffixes = GameInfo.UnitNames.filter(item => (item.NameType == suffixType));
 			const randomSuffix = this.findValidTextKey_UnitNames(armySuffixes);
 			suffix = Locale.compose(armySuffixes[randomSuffix].TextKey);
-			console.warn("[TCS-IUR] Generated Creative suffix: '" + suffix + "'");
+			if (this.debugRenamer == true) {console.warn("[TCS-IUR] Generated Creative suffix: '" + suffix + "'");}
 		}
 		
 		// Update prefixType for certain civilizations/regions
 		if (localCivType == "CIVILIZATION_ROME") {
 			if (prefixType == 'PREFIX_RANK_LAND') {
 				prefixType = 'PREFIX_RANK_LAND_ROME';
-				console.warn("[TCS-IUR] Prefix Type Changed: '" + prefixType + "'" );
+				if (this.debugRenamer == true) {console.warn("[TCS-IUR] Prefix Type Changed: '" + prefixType + "'" );}
 			}
 		}
 		else if (localCivType == "CIVILIZATION_GREECE") {
 			if (prefixType == 'PREFIX_RANK_LAND') {
 				prefixType = 'PREFIX_RANK_LAND_GREECE';
-				console.warn("[TCS-IUR] Prefix Type Changed: '" + prefixType + "'" );
+				if (this.debugRenamer == true) {console.warn("[TCS-IUR] Prefix Type Changed: '" + prefixType + "'" );}
 			}
 		}
 		else if (localCivType == "CIVILIZATION_HAN") {
 			if (prefixType == 'PREFIX_RANK_LAND') {
 				prefixType = 'PREFIX_RANK_LAND_HAN';
-				console.warn("[TCS-IUR] Prefix Type Changed: '" + prefixType + "'" );
+				if (this.debugRenamer == true) {console.warn("[TCS-IUR] Prefix Type Changed: '" + prefixType + "'" );}
 			}
 		}
-		else if (localCivType == "CIVILIZATION_PERSIA") {
+		else if (localCivType == "CIVILIZATION_AKSUM") {
 			if (prefixType == 'PREFIX_RANK_LAND') {
-				prefixType = 'PREFIX_RANK_LAND_PERSIA';
-				console.warn("[TCS-IUR] Prefix Type Changed: '" + prefixType + "'" );
+				prefixType = 'PREFIX_RANK_LAND_AKSUM';
+				if (this.debugRenamer == true) {console.warn("[TCS-IUR] Prefix Type Changed: '" + prefixType + "'" );}
 			}
 		}
-		
-		// Update prefixType if gender is not male, but only for Exploration Age (for now)
-		if (gender == 'FEMALE' && iCurrentAge == iExplorationAge) {
+		else if (localCivType == "CIVILIZATION_CARTHAGE") {
 			if (prefixType == 'PREFIX_RANK_LAND') {
-				prefixType = 'PREFIX_RANK_LAND_FEMALE';
-				console.warn("[TCS-IUR] Prefix Type Changed: '" + prefixType + "'" );
+				prefixType = 'PREFIX_RANK_LAND_CARTHAGE';
+				if (this.debugRenamer == true) {console.warn("[TCS-IUR] Prefix Type Changed: '" + prefixType + "'" );}
 			}
-			else if (prefixType == 'PREFIX_RANK_SEA') {
-				prefixType = 'PREFIX_RANK_SEA_FEMALE';
-				console.warn("[TCS-IUR] Prefix Type Changed: '" + prefixType + "'" );
+		}
+		else if (localCivType == "CIVILIZATION_MAURYA") {
+			if (prefixType == 'PREFIX_RANK_LAND') {
+				prefixType = 'PREFIX_RANK_LAND_MAURYA';
+				if (this.debugRenamer == true) {console.warn("[TCS-IUR] Prefix Type Changed: '" + prefixType + "'" );}
+			}
+		}
+		else if (localCivType == "CIVILIZATION_MAYA") {
+			if (prefixType == 'PREFIX_RANK_LAND') {
+				prefixType = 'PREFIX_RANK_LAND_MAYA';
+				if (this.debugRenamer == true) {console.warn("[TCS-IUR] Prefix Type Changed: '" + prefixType + "'" );}
+			}
+		}
+		else if (localCivType == "CIVILIZATION_MISSISSIPIAN") {
+			if (prefixType == 'PREFIX_RANK_LAND') {
+				prefixType = 'PREFIX_RANK_LAND_MISSISSIPIAN';
+				if (this.debugRenamer == true) {console.warn("[TCS-IUR] Prefix Type Changed: '" + prefixType + "'" );}
 			}
 		}
 		
 		// Get prefix
 		const armyPrefixes = GameInfo.UnitNames.filter(item => (item.NameType == prefixType));
-		const randomPrefix = this.findValidTextKey_UnitNames(armyPrefixes);
-		const prefix = Locale.compose(armyPrefixes[randomPrefix].TextKey);
-		console.warn("[TCS-IUR] Generated prefix: '" + prefix + "'");
+		let randomPrefix = this.findValidTextKey_UnitNames(armyPrefixes);
+		let prefix = Locale.compose(armyPrefixes[randomPrefix].TextKey);
+
+		// If name is female, search for any female variant prefixes
+		if (gender == 'FEMALE') {
+			if (this.debugRenamer == true) {console.warn("[TCS-IUR] Gender is female...searching for female prefix variant...");}
+			const malePrefix = armyPrefixes[randomPrefix].TextKey;
+			const femalePrefixes = GameInfo.UnitNames.filter(item => (item.NameType == (prefixType + "_FEMALE")));
+			if (this.debugRenamer == true) {console.warn("[TCS-IUR] Female variants found: " + femalePrefixes.length);}
+			if (femalePrefixes && femalePrefixes.length > 0) {
+				if (this.debugRenamer == true) {console.warn("[TCS-IUR] Searching for '" + malePrefix + "_FEMALE'...");}
+				const newPrefix = femalePrefixes.find(p => p.TextKey == (malePrefix + "_FEMALE"));
+				if (newPrefix && Locale.keyExists(newPrefix.TextKey)) {
+					prefix = Locale.compose(newPrefix.TextKey);
+					if (this.debugRenamer == true) {console.warn("[TCS-IUR] Match found: " + newPrefix.TextKey);}
+				}
+				else {
+					if (this.debugRenamer == true) {console.warn("[TCS-IUR] No match found, using default prefix.");}
+				}
+			}	
+		}
+		if (this.debugRenamer == true) {console.warn("[TCS-IUR] Generated prefix: '" + prefix + "'");}
 		
 		const nameTemplate = "LOC_UNITNAME_BASE_TEMPLATE";
 		const unitName = Locale.compose(nameTemplate, prefix, suffix);
