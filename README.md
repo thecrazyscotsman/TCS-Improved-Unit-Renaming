@@ -1,5 +1,5 @@
 # TCS-Improved-Unit-Renaming
-Official releases hosted on Civfanatics.
+Official releases hosted on [Civfanatics](https://forums.civfanatics.com/resources/tcs-improved-unit-renaming.32129/).
 
 ## Description
 Adds randomization options when renaming units.
@@ -36,7 +36,7 @@ If you would like to contribute a translation, please do the following:
 
 ## Installation
 ### Recommended
-It is recommended to use the [CivMods](https://civmods.com/) manager.
+It is recommended to use the [CivMods](https://civmods.com/install?modCfId=32129) manager.
 ### Manual
 Extract to your Mods folder.
 * **Windows:** %localappdata%\Firaxis Games\Sid Meier's Civilization VII\Mods
