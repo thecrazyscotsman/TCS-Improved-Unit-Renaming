@@ -27,12 +27,15 @@ Examples:
 This is not meant to be completely serious, and silly names may be generated. I will, however, try to provide some semblance of regional and/or historical accuracy for the Citizen ranks and names.
 
 ## Localization
-Batch translation for multiple languages was done via Google Gemini for this mod. I expect there will be **myriads** of errors due to the AI translation, but I wanted to provide a starting point for localization and to make merging pull requests cleaner (as the files are already referenced in the modinfo).
+Batch translation for multiple languages was done via Google Gemini for this mod. I expect there will be **myriads** of errors due to the AI translation, but I wanted to provide a starting point for localization and to make merging pull requests cleaner (as the files are already referenced in the modinfo). The following languages have auto-generated translations (or, complete nonsense, depending on how Gemini did):
+* German, Spanish, Italian, Japanese, Korean, Polish, Portuguese (BR), Russian, Chinese (Simplified)
 
 I have **not** translated the CitizenNames, so I welcome contributions for that pool.
 
 If you would like to contribute a translation, please do the following:
-* open a branch from the current version, add your localization to an appropriate folder, and create a Pull Request.
+* open a branch from the current version, update the file, and create a Pull Request.
+
+**Note:** Given how text-heavy this mod is, I will only accept localization updates done via a Github Pull Request!
 
 ## Installation
 ### Recommended
