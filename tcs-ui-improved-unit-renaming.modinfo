@@ -40,8 +40,21 @@
 					<Item>ui/unit-rename/unit-rename.js</Item>
 				</ImportFiles>
 				<UpdateText>
-					<Item>text/en_us/InGameText.xml</Item>
 					<Item>text/en_us/ShellText.xml</Item>
+					<Item>text/en_us/CreativePool_Text.xml</Item>
+					<Item>text/en_us/RankPool_Text.xml</Item>
+					<Item>text/en_us/CitizenPool_Text.xml</Item>
+					
+					<!-- Batch translations done via Google Gemini - errors may be present -->
+					<Item locale="de_DE">text/de_de/CreativePool_Text.xml</Item>
+					<Item locale="es_ES">text/es_es/CreativePool_Text.xml</Item>
+					<Item locale="it_IT">text/it_it/CreativePool_Text.xml</Item>
+					<Item locale="ja_JP">text/ja_jp/CreativePool_Text.xml</Item>
+					<Item locale="ko_KR">text/ko_kr/CreativePool_Text.xml</Item>
+					<Item locale="pl_PL">text/pl_pl/CreativePool_Text.xml</Item>
+					<Item locale="pt_BR">text/pt_br/CreativePool_Text.xml</Item>
+					<Item locale="ru_RU">text/ru_ru/CreativePool_Text.xml</Item>
+					<Item locale="zh_Hans_CN">text/zh_hans_cn/CreativePool_Text.xml</Item>
 				</UpdateText>
 			</Actions>
 		</ActionGroup>

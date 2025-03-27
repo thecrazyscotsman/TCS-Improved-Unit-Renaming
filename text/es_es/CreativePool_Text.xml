@@ -1,0 +1,300 @@
+<!-- Translations done via Google Gemini - errors may be present -->
+<Database>
+	<LocalizedText>
+		<Row Tag='LOC_TCS_UNITNAME_PREFIX_1ST' Language='es_ES'><Text>El 1º</Text></Row>
+		<Row Tag='LOC_TCS_UNITNAME_PREFIX_2ND' Language='es_ES'><Text>El 2º</Text></Row>
+		<Row Tag='LOC_TCS_UNITNAME_PREFIX_3RD' Language='es_ES'><Text>El 3º</Text></Row>
+		<Row Tag='LOC_TCS_UNITNAME_PREFIX_4TH' Language='es_ES'><Text>El 4º</Text></Row>
+		<Row Tag='LOC_TCS_UNITNAME_PREFIX_AIMED' Language='es_ES'><Text>El Apuntado</Text></Row>
+		<Row Tag='LOC_TCS_UNITNAME_PREFIX_ALPHA' Language='es_ES'><Text>El Alfa</Text></Row>
+		<Row Tag='LOC_TCS_UNITNAME_PREFIX_ALPINE' Language='es_ES'><Text>El Alpino</Text></Row>
+		<Row Tag='LOC_TCS_UNITNAME_PREFIX_ANGEL' Language='es_ES'><Text>El Ángel</Text></Row>
+		<Row Tag='LOC_TCS_UNITNAME_PREFIX_ARMORED' Language='es_ES'><Text>El Blindado</Text></Row>
+		<Row Tag='LOC_TCS_UNITNAME_PREFIX_BIG_RED' Language='es_ES'><Text>El Rojo</Text></Row>
+		<Row Tag='LOC_TCS_UNITNAME_PREFIX_BLACK' Language='es_ES'><Text>El Negro</Text></Row>
+		<Row Tag='LOC_TCS_UNITNAME_PREFIX_BLOOD' Language='es_ES'><Text>La Sangre</Text></Row>
+		<Row Tag='LOC_TCS_UNITNAME_PREFIX_BLOODY' Language='es_ES'><Text>El Sangriento</Text></Row>
+		<Row Tag='LOC_TCS_UNITNAME_PREFIX_BRAVE' Language='es_ES'><Text>El Valiente</Text></Row>
+		<Row Tag='LOC_TCS_UNITNAME_PREFIX_BULL' Language='es_ES'><Text>El Toro</Text></Row>
+		<Row Tag='LOC_TCS_UNITNAME_PREFIX_CELESTIAL' Language='es_ES'><Text>El Celestial</Text></Row>
+		<Row Tag='LOC_TCS_UNITNAME_PREFIX_COLONIAL' Language='es_ES'><Text>El Colonial</Text></Row>
+		<Row Tag='LOC_TCS_UNITNAME_PREFIX_CRAZY' Language='es_ES'><Text>El Loco</Text></Row>
+		<Row Tag='LOC_TCS_UNITNAME_PREFIX_DEAD_CENTER' Language='es_ES'><Text>El Centro</Text></Row>
+		<Row Tag='LOC_TCS_UNITNAME_PREFIX_DEADLY' Language='es_ES'><Text>El Mortal</Text></Row>
+		<Row Tag='LOC_TCS_UNITNAME_PREFIX_DEATHS' Language='es_ES'><Text>De la Muerte</Text></Row>
+		<Row Tag='LOC_TCS_UNITNAME_PREFIX_DELTA' Language='es_ES'><Text>El Delta</Text></Row>
+		<Row Tag='LOC_TCS_UNITNAME_PREFIX_DESERT' Language='es_ES'><Text>El Desierto</Text></Row>
+		<Row Tag='LOC_TCS_UNITNAME_PREFIX_DIRTY' Language='es_ES'><Text>El Sucio</Text></Row>
+		<Row Tag='LOC_TCS_UNITNAME_PREFIX_DRAGON' Language='es_ES'><Text>El Dragón</Text></Row>
+		<Row Tag='LOC_TCS_UNITNAME_PREFIX_DRAWN' Language='es_ES'><Text>El Dibujado</Text></Row>
+		<Row Tag='LOC_TCS_UNITNAME_PREFIX_ELITE' Language='es_ES'><Text>La Élite</Text></Row>
+		<Row Tag='LOC_TCS_UNITNAME_PREFIX_FIGHTING' Language='es_ES'><Text>El Combatiente</Text></Row>
+		<Row Tag='LOC_TCS_UNITNAME_PREFIX_FLYING' Language='es_ES'><Text>El Volador</Text></Row>
+		<Row Tag='LOC_TCS_UNITNAME_PREFIX_GALLOPING' Language='es_ES'><Text>El Galopante</Text></Row>
+		<Row Tag='LOC_TCS_UNITNAME_PREFIX_GHOST' Language='es_ES'><Text>El Fantasma</Text></Row>
+		<Row Tag='LOC_TCS_UNITNAME_PREFIX_GLORY' Language='es_ES'><Text>La Gloria</Text></Row>
+		<Row Tag='LOC_TCS_UNITNAME_PREFIX_GOLDEN' Language='es_ES'><Text>El Dorado</Text></Row>
+		<Row Tag='LOC_TCS_UNITNAME_PREFIX_GREAT' Language='es_ES'><Text>El Grande</Text></Row>
+		<Row Tag='LOC_TCS_UNITNAME_PREFIX_GREEN' Language='es_ES'><Text>El Verde</Text></Row>
+		<Row Tag='LOC_TCS_UNITNAME_PREFIX_GRIM' Language='es_ES'><Text>El Tétrico</Text></Row>
+		<Row Tag='LOC_TCS_UNITNAME_PREFIX_HADES' Language='es_ES'><Text>El Hades</Text></Row>
+		<Row Tag='LOC_TCS_UNITNAME_PREFIX_HELLISH' Language='es_ES'><Text>El Infernal</Text></Row>
+		<Row Tag='LOC_TCS_UNITNAME_PREFIX_HELLS' Language='es_ES'><Text>Los Infiernos</Text></Row>
+		<Row Tag='LOC_TCS_UNITNAME_PREFIX_HOLY' Language='es_ES'><Text>El Santo</Text></Row>
+		<Row Tag='LOC_TCS_UNITNAME_PREFIX_INVINCIBLE' Language='es_ES'><Text>El Invencible</Text></Row>
+		<Row Tag='LOC_TCS_UNITNAME_PREFIX_IRON' Language='es_ES'><Text>El Hierro</Text></Row>
+		<Row Tag='LOC_TCS_UNITNAME_PREFIX_JUNGLE' Language='es_ES'><Text>La Jungla</Text></Row>
+		<Row Tag='LOC_TCS_UNITNAME_PREFIX_KINGS' Language='es_ES'><Text>Del Rey</Text></Row>
+		<Row Tag='LOC_TCS_UNITNAME_PREFIX_LAVA' Language='es_ES'><Text>La Lava</Text></Row>
+		<Row Tag='LOC_TCS_UNITNAME_PREFIX_LIGHT' Language='es_ES'><Text>La Luz</Text></Row>
+		<Row Tag='LOC_TCS_UNITNAME_PREFIX_LIGHTNING' Language='es_ES'><Text>El Rayo</Text></Row>
+		<Row Tag='LOC_TCS_UNITNAME_PREFIX_LION' Language='es_ES'><Text>El León</Text></Row>
+		<Row Tag='LOC_TCS_UNITNAME_PREFIX_LONG' Language='es_ES'><Text>El Largo</Text></Row>
+		<Row Tag='LOC_TCS_UNITNAME_PREFIX_MAGNIFICENT' Language='es_ES'><Text>El Magnífico</Text></Row>
+		<Row Tag='LOC_TCS_UNITNAME_PREFIX_MOUNTAIN' Language='es_ES'><Text>La Montaña</Text></Row>
+		<Row Tag='LOC_TCS_UNITNAME_PREFIX_MOUNTED' Language='es_ES'><Text>El Montado</Text></Row>
+		<Row Tag='LOC_TCS_UNITNAME_PREFIX_NOMADIC' Language='es_ES'><Text>El Nómada</Text></Row>
+		<Row Tag='LOC_TCS_UNITNAME_PREFIX_OLD' Language='es_ES'><Text>El Viejo</Text></Row>
+		<Row Tag='LOC_TCS_UNITNAME_PREFIX_ORPHAN' Language='es_ES'><Text>El Huérfano</Text></Row>
+		<Row Tag='LOC_TCS_UNITNAME_PREFIX_PARTISAN' Language='es_ES'><Text>El Partisano</Text></Row>
+		<Row Tag='LOC_TCS_UNITNAME_PREFIX_PRESIDENTS' Language='es_ES'><Text>Del Presidente</Text></Row>
+		<Row Tag='LOC_TCS_UNITNAME_PREFIX_QUEENS' Language='es_ES'><Text>De la Reina</Text></Row>
+		<Row Tag='LOC_TCS_UNITNAME_PREFIX_RAGGED' Language='es_ES'><Text>El Andrajoso</Text></Row>
+		<Row Tag='LOC_TCS_UNITNAME_PREFIX_RAINING' Language='es_ES'><Text>El Lluvioso</Text></Row>
+		<Row Tag='LOC_TCS_UNITNAME_PREFIX_REVOLUTIONARY' Language='es_ES'><Text>El Revolucionario</Text></Row>
+		<Row Tag='LOC_TCS_UNITNAME_PREFIX_RIVER' Language='es_ES'><Text>El Río</Text></Row>
+		<Row Tag='LOC_TCS_UNITNAME_PREFIX_ROCK' Language='es_ES'><Text>La Roca</Text></Row>
+		<Row Tag='LOC_TCS_UNITNAME_PREFIX_ROYAL' Language='es_ES'><Text>El Real</Text></Row>
+		<Row Tag='LOC_TCS_UNITNAME_PREFIX_SACRED' Language='es_ES'><Text>El Sagrado</Text></Row>
+		<Row Tag='LOC_TCS_UNITNAME_PREFIX_SALTY' Language='es_ES'><Text>El Salado</Text></Row>
+		<Row Tag='LOC_TCS_UNITNAME_PREFIX_SCREAMING' Language='es_ES'><Text>El Que Grita</Text></Row>
+		<Row Tag='LOC_TCS_UNITNAME_PREFIX_SEA' Language='es_ES'><Text>El Mar</Text></Row>
+		<Row Tag='LOC_TCS_UNITNAME_PREFIX_SHARP' Language='es_ES'><Text>El Afilado</Text></Row>
+		<Row Tag='LOC_TCS_UNITNAME_PREFIX_SILENT' Language='es_ES'><Text>El Silencioso</Text></Row>
+		<Row Tag='LOC_TCS_UNITNAME_PREFIX_SOARING' Language='es_ES'><Text>El Elevado</Text></Row>
+		<Row Tag='LOC_TCS_UNITNAME_PREFIX_STONE' Language='es_ES'><Text>La Piedra</Text></Row>
+		<Row Tag='LOC_TCS_UNITNAME_PREFIX_STONEWALL' Language='es_ES'><Text>El Stonewall</Text></Row>
+		<Row Tag='LOC_TCS_UNITNAME_PREFIX_STORM' Language='es_ES'><Text>La Tormenta</Text></Row>
+		<Row Tag='LOC_TCS_UNITNAME_PREFIX_TALL' Language='es_ES'><Text>El Alto</Text></Row>
+		<Row Tag='LOC_TCS_UNITNAME_PREFIX_TEN' Language='es_ES'><Text>El Diez</Text></Row>
+		<Row Tag='LOC_TCS_UNITNAME_PREFIX_TERRIBLE' Language='es_ES'><Text>El Terrible</Text></Row>
+		<Row Tag='LOC_TCS_UNITNAME_PREFIX_THUNDERING' Language='es_ES'><Text>El Tronador</Text></Row>
+		<Row Tag='LOC_TCS_UNITNAME_PREFIX_TIMBER' Language='es_ES'><Text>La Madera</Text></Row>
+		<Row Tag='LOC_TCS_UNITNAME_PREFIX_TROPIC' Language='es_ES'><Text>El Trópico</Text></Row>
+		<Row Tag='LOC_TCS_UNITNAME_PREFIX_TUNDRA' Language='es_ES'><Text>La Tundra</Text></Row>
+		<Row Tag='LOC_TCS_UNITNAME_PREFIX_WALKING' Language='es_ES'><Text>El Caminante</Text></Row>
+		<Row Tag='LOC_TCS_UNITNAME_PREFIX_WAR' Language='es_ES'><Text>La Guerra</Text></Row>
+		<Row Tag='LOC_TCS_UNITNAME_PREFIX_WHITE' Language='es_ES'><Text>El Blanco</Text></Row>
+		<Row Tag='LOC_TCS_UNITNAME_PREFIX_WILD' Language='es_ES'><Text>El Salvaje</Text></Row>
+		<Row Tag='LOC_TCS_UNITNAME_PREFIX_WINDING' Language='es_ES'><Text>El Sinuoso</Text></Row>
+		<Row Tag='LOC_TCS_UNITNAME_PREFIX_HEAVENLY' Language='es_ES'><Text>El Celestial</Text></Row>
+		<Row Tag='LOC_TCS_UNITNAME_PREFIX_BRIGHT' Language='es_ES'><Text>El Brillante</Text></Row>
+		<Row Tag='LOC_TCS_UNITNAME_PREFIX_HIDDEN' Language='es_ES'><Text>El Oculto</Text></Row>
+		<Row Tag='LOC_TCS_UNITNAME_PREFIX_JADE' Language='es_ES'><Text>El Jade</Text></Row>
+		<Row Tag='LOC_TCS_UNITNAME_PREFIX_CRIMSON' Language='es_ES'><Text>El Carmesí</Text></Row>
+		<Row Tag='LOC_TCS_UNITNAME_PREFIX_SPIRIT' Language='es_ES'><Text>El Espíritu</Text></Row>
+		<Row Tag='LOC_TCS_UNITNAME_PREFIX_ETERNAL' Language='es_ES'><Text>El Eterno</Text></Row>
+		<Row Tag='LOC_TCS_UNITNAME_PREFIX_NORTHERN' Language='es_ES'><Text>El Norteño</Text></Row>
+		<Row Tag='LOC_TCS_UNITNAME_PREFIX_SOUTHERN' Language='es_ES'><Text>El Sureño</Text></Row>
+		<Row Tag='LOC_TCS_UNITNAME_PREFIX_EASTERN' Language='es_ES'><Text>El Oriental</Text></Row>
+		<Row Tag='LOC_TCS_UNITNAME_PREFIX_WESTERN' Language='es_ES'><Text>El Occidental</Text></Row>
+		<Row Tag='LOC_TCS_UNITNAME_PREFIX_EARTHEN' Language='es_ES'><Text>El Terrestre</Text></Row>
+		<Row Tag='LOC_TCS_UNITNAME_PREFIX_GALE' Language='es_ES'><Text>La Ráfaga</Text></Row>
+		<Row Tag='LOC_TCS_UNITNAME_PREFIX_FIRE' Language='es_ES'><Text>El Fuego</Text></Row>
+		<Row Tag='LOC_TCS_UNITNAME_PREFIX_METAL' Language='es_ES'><Text>El Metal</Text></Row>
+		<Row Tag='LOC_TCS_UNITNAME_PREFIX_WATER' Language='es_ES'><Text>El Agua</Text></Row>
+		<Row Tag='LOC_TCS_UNITNAME_PREFIX_BOXING' Language='es_ES'><Text>El Boxeador</Text></Row>
+		<Row Tag='LOC_TCS_UNITNAME_PREFIX_OPEN' Language='es_ES'><Text>El Abierto</Text></Row>
+		<Row Tag='LOC_TCS_UNITNAME_PREFIX_RAGING' Language='es_ES'><Text>El Furioso</Text></Row>
+		<Row Tag='LOC_TCS_UNITNAME_PREFIX_CALM' Language='es_ES'><Text>El Calmo</Text></Row>
+		<Row Tag='LOC_TCS_UNITNAME_PREFIX_SLEEPING' Language='es_ES'><Text>El Durmiente</Text></Row>
+		<Row Tag='LOC_TCS_ARMYNAME_SUFFIX_ARTISTS' Language='es_ES'><Text>Artistas</Text></Row>
+		<Row Tag='LOC_TCS_ARMYNAME_SUFFIX_BANNER' Language='es_ES'><Text>Bandera</Text></Row>
+		<Row Tag='LOC_TCS_ARMYNAME_SUFFIX_BASTARDS' Language='es_ES'><Text>Bastardos</Text></Row>
+		<Row Tag='LOC_TCS_ARMYNAME_SUFFIX_BATTALION' Language='es_ES'><Text>Batallón</Text></Row>
+		<Row Tag='LOC_TCS_ARMYNAME_SUFFIX_BERETS' Language='es_ES'><Text>Boinas</Text></Row>
+		<Row Tag='LOC_TCS_ARMYNAME_SUFFIX_BODYGUARDS' Language='es_ES'><Text>Guardaespaldas</Text></Row>
+		<Row Tag='LOC_TCS_ARMYNAME_SUFFIX_BOOTS' Language='es_ES'><Text>Botas</Text></Row>
+		<Row Tag='LOC_TCS_ARMYNAME_SUFFIX_BOYS' Language='es_ES'><Text>Chicos</Text></Row>
+		<Row Tag='LOC_TCS_ARMYNAME_SUFFIX_BRAVES' Language='es_ES'><Text>Valientes</Text></Row>
+		<Row Tag='LOC_TCS_ARMYNAME_SUFFIX_BRIGADE' Language='es_ES'><Text>Brigada</Text></Row>
+		<Row Tag='LOC_TCS_ARMYNAME_SUFFIX_BROTHERS' Language='es_ES'><Text>Hermanos</Text></Row>
+		<Row Tag='LOC_TCS_ARMYNAME_SUFFIX_BUTCHERS' Language='es_ES'><Text>Carniceros</Text></Row>
+		<Row Tag='LOC_TCS_ARMYNAME_SUFFIX_CAPS' Language='es_ES'><Text>Gorras</Text></Row>
+		<Row Tag='LOC_TCS_ARMYNAME_SUFFIX_CHAMPIONS' Language='es_ES'><Text>Campeones</Text></Row>
+		<Row Tag='LOC_TCS_ARMYNAME_SUFFIX_CIRCUS' Language='es_ES'><Text>Circo</Text></Row>
+		<Row Tag='LOC_TCS_ARMYNAME_SUFFIX_COMPANY' Language='es_ES'><Text>Compañía</Text></Row>
+		<Row Tag='LOC_TCS_ARMYNAME_SUFFIX_COMRADES' Language='es_ES'><Text>Camaradas</Text></Row>
+		<Row Tag='LOC_TCS_ARMYNAME_SUFFIX_CROSSES' Language='es_ES'><Text>Cruces</Text></Row>
+		<Row Tag='LOC_TCS_ARMYNAME_SUFFIX_CROWS' Language='es_ES'><Text>Cuervos</Text></Row>
+		<Row Tag='LOC_TCS_ARMYNAME_SUFFIX_DEAD' Language='es_ES'><Text>Muertos</Text></Row>
+		<Row Tag='LOC_TCS_ARMYNAME_SUFFIX_DEMONS' Language='es_ES'><Text>Demonios</Text></Row>
+		<Row Tag='LOC_TCS_ARMYNAME_SUFFIX_DEVILS' Language='es_ES'><Text>Diablos</Text></Row>
+		<Row Tag='LOC_TCS_ARMYNAME_SUFFIX_DOGS' Language='es_ES'><Text>Perros</Text></Row>
+		<Row Tag='LOC_TCS_ARMYNAME_SUFFIX_DOZEN' Language='es_ES'><Text>Docena</Text></Row>
+		<Row Tag='LOC_TCS_ARMYNAME_SUFFIX_DRAGONS' Language='es_ES'><Text>Dragones</Text></Row>
+		<Row Tag='LOC_TCS_ARMYNAME_SUFFIX_EAGLES' Language='es_ES'><Text>Águilas</Text></Row>
+		<Row Tag='LOC_TCS_ARMYNAME_SUFFIX_EXCELLERS' Language='es_ES'><Text>Excelentes</Text></Row>
+		<Row Tag='LOC_TCS_ARMYNAME_SUFFIX_FORCE' Language='es_ES'><Text>Fuerza</Text></Row>
+		<Row Tag='LOC_TCS_ARMYNAME_SUFFIX_FUSILIERS' Language='es_ES'><Text>Fusileros</Text></Row>
+		<Row Tag='LOC_TCS_ARMYNAME_SUFFIX_GAMBLERS' Language='es_ES'><Text>Jugadores</Text></Row>
+		<Row Tag='LOC_TCS_ARMYNAME_SUFFIX_GANG' Language='es_ES'><Text>Pandilla</Text></Row>
+		<Row Tag='LOC_TCS_ARMYNAME_SUFFIX_GARDE' Language='es_ES'><Text>Guardia</Text></Row>
+		<Row Tag='LOC_TCS_ARMYNAME_SUFFIX_GIANTS' Language='es_ES'><Text>Gigantes</Text></Row>
+		<Row Tag='LOC_TCS_ARMYNAME_SUFFIX_GOONS' Language='es_ES'><Text>Matones</Text></Row>
+		<Row Tag='LOC_TCS_ARMYNAME_SUFFIX_GRENADIERS' Language='es_ES'><Text>Granaderos</Text></Row>
+		<Row Tag='LOC_TCS_ARMYNAME_SUFFIX_GUARD' Language='es_ES'><Text>Guardia</Text></Row>
+		<Row Tag='LOC_TCS_ARMYNAME_SUFFIX_GUARDIANS' Language='es_ES'><Text>Guardianes</Text></Row>
+		<Row Tag='LOC_TCS_ARMYNAME_SUFFIX_HATS' Language='es_ES'><Text>Sombreros</Text></Row>
+		<Row Tag='LOC_TCS_ARMYNAME_SUFFIX_HELMETS' Language='es_ES'><Text>Cascos</Text></Row>
+		<Row Tag='LOC_TCS_ARMYNAME_SUFFIX_HORDE' Language='es_ES'><Text>Horda</Text></Row>
+		<Row Tag='LOC_TCS_ARMYNAME_SUFFIX_HOUNDS' Language='es_ES'><Text>Sabuesos</Text></Row>
+		<Row Tag='LOC_TCS_ARMYNAME_SUFFIX_HUNTERS' Language='es_ES'><Text>Cazadores</Text></Row>
+		<Row Tag='LOC_TCS_ARMYNAME_SUFFIX_IMMORTALS' Language='es_ES'><Text>Inmortales</Text></Row>
+		<Row Tag='LOC_TCS_ARMYNAME_SUFFIX_INFANTRY' Language='es_ES'><Text>Infantería</Text></Row>
+		<Row Tag='LOC_TCS_ARMYNAME_SUFFIX_IRONS' Language='es_ES'><Text>Hierros</Text></Row>
+		<Row Tag='LOC_TCS_ARMYNAME_SUFFIX_KILLERS' Language='es_ES'><Text>Asesinos</Text></Row>
+		<Row Tag='LOC_TCS_ARMYNAME_SUFFIX_KINGS' Language='es_ES'><Text>Reyes</Text></Row>
+		<Row Tag='LOC_TCS_ARMYNAME_SUFFIX_LADS' Language='es_ES'><Text>Muchachos</Text></Row>
+		<Row Tag='LOC_TCS_ARMYNAME_SUFFIX_LAMBS' Language='es_ES'><Text>Corderos</Text></Row>
+		<Row Tag='LOC_TCS_ARMYNAME_SUFFIX_LEGION' Language='es_ES'><Text>Legión</Text></Row>
+		<Row Tag='LOC_TCS_ARMYNAME_SUFFIX_LIBERATORS' Language='es_ES'><Text>Libertadores</Text></Row>
+		<Row Tag='LOC_TCS_ARMYNAME_SUFFIX_LINE' Language='es_ES'><Text>Línea</Text></Row>
+		<Row Tag='LOC_TCS_ARMYNAME_SUFFIX_LIONS' Language='es_ES'><Text>Leones</Text></Row>
+		<Row Tag='LOC_TCS_ARMYNAME_SUFFIX_MARTYRS' Language='es_ES'><Text>Mártires</Text></Row>
+		<Row Tag='LOC_TCS_ARMYNAME_SUFFIX_ONE' Language='es_ES'><Text>Unos</Text></Row>
+		<Row Tag='LOC_TCS_ARMYNAME_SUFFIX_OWN' Language='es_ES'><Text>Propios</Text></Row>
+		<Row Tag='LOC_TCS_ARMYNAME_SUFFIX_PANTHERS' Language='es_ES'><Text>Panteras</Text></Row>
+		<Row Tag='LOC_TCS_ARMYNAME_SUFFIX_PEACEMAKERS' Language='es_ES'><Text>Pacificadores</Text></Row>
+		<Row Tag='LOC_TCS_ARMYNAME_SUFFIX_PHANTOMS' Language='es_ES'><Text>Fantasmas</Text></Row>
+		<Row Tag='LOC_TCS_ARMYNAME_SUFFIX_PROFESSIONALS' Language='es_ES'><Text>Profesionales</Text></Row>
+		<Row Tag='LOC_TCS_ARMYNAME_SUFFIX_RAIDERS' Language='es_ES'><Text>Invasores</Text></Row>
+		<Row Tag='LOC_TCS_ARMYNAME_SUFFIX_RAMPAGERS' Language='es_ES'><Text>Devastadores</Text></Row>
+		<Row Tag='LOC_TCS_ARMYNAME_SUFFIX_REDS' Language='es_ES'><Text>Rojos</Text></Row>
+		<Row Tag='LOC_TCS_ARMYNAME_SUFFIX_REGIMENT' Language='es_ES'><Text>Regimiento</Text></Row>
+		<Row Tag='LOC_TCS_ARMYNAME_SUFFIX_RELIABLES' Language='es_ES'><Text>Fiables</Text></Row>
+		<Row Tag='LOC_TCS_ARMYNAME_SUFFIX_SAINTS' Language='es_ES'><Text>Santos</Text></Row>
+		<Row Tag='LOC_TCS_ARMYNAME_SUFFIX_SAVAGES' Language='es_ES'><Text>Salvajes</Text></Row>
+		<Row Tag='LOC_TCS_ARMYNAME_SUFFIX_SEEKERS' Language='es_ES'><Text>Buscadores</Text></Row>
+		<Row Tag='LOC_TCS_ARMYNAME_SUFFIX_SHIELDS' Language='es_ES'><Text>Escudos</Text></Row>
+		<Row Tag='LOC_TCS_ARMYNAME_SUFFIX_SHIRTS' Language='es_ES'><Text>Camisas</Text></Row>
+		<Row Tag='LOC_TCS_ARMYNAME_SUFFIX_SONS' Language='es_ES'><Text>Hijos</Text></Row>
+		<Row Tag='LOC_TCS_ARMYNAME_SUFFIX_TIGERS' Language='es_ES'><Text>Tigres</Text></Row>
+		<Row Tag='LOC_TCS_ARMYNAME_SUFFIX_TIMBERWOLVES' Language='es_ES'><Text>Lobos Timber</Text></Row>
+		<Row Tag='LOC_TCS_ARMYNAME_SUFFIX_TOUGHS' Language='es_ES'><Text>Tipos duros</Text></Row>
+		<Row Tag='LOC_TCS_ARMYNAME_SUFFIX_TROOP' Language='es_ES'><Text>Tropa</Text></Row>
+		<Row Tag='LOC_TCS_ARMYNAME_SUFFIX_VOLUNTEERS' Language='es_ES'><Text>Voluntarios</Text></Row>
+		<Row Tag='LOC_TCS_ARMYNAME_SUFFIX_WARLORDS' Language='es_ES'><Text>Caudillos</Text></Row>
+		<Row Tag='LOC_TCS_ARMYNAME_SUFFIX_WATCH' Language='es_ES'><Text>Guardia</Text></Row>
+		<Row Tag='LOC_TCS_ARMYNAME_SUFFIX_WIDOWMAKERS' Language='es_ES'><Text>Fabricantes de viudas</Text></Row>
+		<Row Tag='LOC_TCS_ARMYNAME_SUFFIX_WOLFHOUNDS' Language='es_ES'><Text>Alanos irlandeses</Text></Row>
+		<Row Tag='LOC_TCS_ARMYNAME_SUFFIX_WOLVES' Language='es_ES'><Text>Lobos</Text></Row>
+		<Row Tag='LOC_TCS_ARMYNAME_SUFFIX_APES' Language='es_ES'><Text>Simios</Text></Row>
+		<Row Tag='LOC_TCS_ARMYNAME_SUFFIX_BLADES' Language='es_ES'><Text>Cuchillas</Text></Row>
+		<Row Tag='LOC_TCS_ARMYNAME_SUFFIX_COMMANDOS' Language='es_ES'><Text>Comandos</Text></Row>
+		<Row Tag='LOC_TCS_ARMYNAME_SUFFIX_EYES' Language='es_ES'><Text>Ojos</Text></Row>
+		<Row Tag='LOC_TCS_ARMYNAME_SUFFIX_JACKETS' Language='es_ES'><Text>Chaquetas</Text></Row>
+		<Row Tag='LOC_TCS_ARMYNAME_SUFFIX_KNIVES' Language='es_ES'><Text>Cuchillos</Text></Row>
+		<Row Tag='LOC_TCS_ARMYNAME_SUFFIX_MARAUDERS' Language='es_ES'><Text>Merodeadores</Text></Row>
+		<Row Tag='LOC_TCS_ARMYNAME_SUFFIX_NOMADS' Language='es_ES'><Text>Nómadas</Text></Row>
+		<Row Tag='LOC_TCS_ARMYNAME_SUFFIX_OUTLAWS' Language='es_ES'><Text>Forajidos</Text></Row>
+		<Row Tag='LOC_TCS_ARMYNAME_SUFFIX_PATHFINDERS' Language='es_ES'><Text>Exploradores</Text></Row>
+		<Row Tag='LOC_TCS_ARMYNAME_SUFFIX_RANGERS' Language='es_ES'><Text>Rangers</Text></Row>
+		<Row Tag='LOC_TCS_ARMYNAME_SUFFIX_RECON' Language='es_ES'><Text>Reconocimiento</Text></Row>
+		<Row Tag='LOC_TCS_ARMYNAME_SUFFIX_RUNNERS' Language='es_ES'><Text>Corredores</Text></Row>
+		<Row Tag='LOC_TCS_ARMYNAME_SUFFIX_SCOUTS' Language='es_ES'><Text>Exploradores</Text></Row>
+		<Row Tag='LOC_TCS_ARMYNAME_SUFFIX_SNAKES' Language='es_ES'><Text>Serpientes</Text></Row>
+		<Row Tag='LOC_TCS_ARMYNAME_SUFFIX_WANDERERS' Language='es_ES'><Text>Vagabundos</Text></Row>
+		<Row Tag='LOC_TCS_ARMYNAME_SUFFIX_ARROWS' Language='es_ES'><Text>Flechas</Text></Row>
+		<Row Tag='LOC_TCS_ARMYNAME_SUFFIX_ARTILLERY' Language='es_ES'><Text>Artillería</Text></Row>
+		<Row Tag='LOC_TCS_ARMYNAME_SUFFIX_BATTERY' Language='es_ES'><Text>Batería</Text></Row>
+		<Row Tag='LOC_TCS_ARMYNAME_SUFFIX_BLAZERS' Language='es_ES'><Text>Blazers</Text></Row>
+		<Row Tag='LOC_TCS_ARMYNAME_SUFFIX_BOMBARDIERS' Language='es_ES'><Text>Bombarderos</Text></Row>
+		<Row Tag='LOC_TCS_ARMYNAME_SUFFIX_BOWS' Language='es_ES'><Text>Arcos</Text></Row>
+		<Row Tag='LOC_TCS_ARMYNAME_SUFFIX_DEATH' Language='es_ES'><Text>Muerte</Text></Row>
+		<Row Tag='LOC_TCS_ARMYNAME_SUFFIX_FIRE_BREATHERS' Language='es_ES'><Text>Respiradores</Text></Row>
+		<Row Tag='LOC_TCS_ARMYNAME_SUFFIX_GUNNERS' Language='es_ES'><Text>Artilleros</Text></Row>
+		<Row Tag='LOC_TCS_ARMYNAME_SUFFIX_KNOCKERS' Language='es_ES'><Text>Golpeadores</Text></Row>
+		<Row Tag='LOC_TCS_ARMYNAME_SUFFIX_MARKSMEN' Language='es_ES'><Text>Tiradores</Text></Row>
+		<Row Tag='LOC_TCS_ARMYNAME_SUFFIX_RAIN' Language='es_ES'><Text>Lluvia</Text></Row>
+		<Row Tag='LOC_TCS_ARMYNAME_SUFFIX_SHARPS' Language='es_ES'><Text>Agudos</Text></Row>
+		<Row Tag='LOC_TCS_ARMYNAME_SUFFIX_SHARPSHOOTERS' Language='es_ES'><Text>Francotiradores</Text></Row>
+		<Row Tag='LOC_TCS_ARMYNAME_SUFFIX_SLINGERS' Language='es_ES'><Text>Honderos</Text></Row>
+		<Row Tag='LOC_TCS_ARMYNAME_SUFFIX_SNIPERS' Language='es_ES'><Text>Francotiradores</Text></Row>
+		<Row Tag='LOC_TCS_ARMYNAME_SUFFIX_STRIKERS' Language='es_ES'><Text>Atacantes</Text></Row>
+		<Row Tag='LOC_TCS_ARMYNAME_SUFFIX_DRAGOONS' Language='es_ES'><Text>Dragones</Text></Row>
+		<Row Tag='LOC_TCS_ARMYNAME_SUFFIX_FEATHERS' Language='es_ES'><Text>Plumas</Text></Row>
+		<Row Tag='LOC_TCS_ARMYNAME_SUFFIX_FOXES' Language='es_ES'><Text>Zorros</Text></Row>
+		<Row Tag='LOC_TCS_ARMYNAME_SUFFIX_HAMMER' Language='es_ES'><Text>Martillo</Text></Row>
+		<Row Tag='LOC_TCS_ARMYNAME_SUFFIX_HORSE' Language='es_ES'><Text>Caballo</Text></Row>
+		<Row Tag='LOC_TCS_ARMYNAME_SUFFIX_HORSEMEN' Language='es_ES'><Text>Jinetes</Text></Row>
+		<Row Tag='LOC_TCS_ARMYNAME_SUFFIX_HUSSARS' Language='es_ES'><Text>Húsares</Text></Row>
+		<Row Tag='LOC_TCS_ARMYNAME_SUFFIX_KNIGHTS' Language='es_ES'><Text>Caballeros</Text></Row>
+		<Row Tag='LOC_TCS_ARMYNAME_SUFFIX_KORPS' Language='es_ES'><Text>Cuerpo</Text></Row>
+		<Row Tag='LOC_TCS_ARMYNAME_SUFFIX_LANCERS' Language='es_ES'><Text>Lanceros</Text></Row>
+		<Row Tag='LOC_TCS_ARMYNAME_SUFFIX_PONIES' Language='es_ES'><Text>Ponis</Text></Row>
+		<Row Tag='LOC_TCS_ARMYNAME_SUFFIX_RIDERS' Language='es_ES'><Text>Jinetes</Text></Row>
+		<Row Tag='LOC_TCS_ARMYNAME_SUFFIX_STEEDS' Language='es_ES'><Text>Corceles</Text></Row>
+		<Row Tag='LOC_TCS_ARMYNAME_SUFFIX_VANGUARD' Language='es_ES'><Text>Vanguardia</Text></Row>
+		<Row Tag='LOC_TCS_ARMYNAME_SUFFIX_WARHORSES' Language='es_ES'><Text>Caballos de guerra</Text></Row>
+		<Row Tag='LOC_TCS_ARMYNAME_SUFFIX_MENDICANTS' Language='es_ES'><Text>Mendigos</Text></Row>
+		<Row Tag='LOC_TCS_ARMYNAME_SUFFIX_PILGRIMS' Language='es_ES'><Text>Peregrinos</Text></Row>
+		<Row Tag='LOC_TCS_ARMYNAME_SUFFIX_FOOT' Language='es_ES'><Text>Pie</Text></Row>
+		<Row Tag='LOC_TCS_ARMYNAME_SUFFIX_PALM' Language='es_ES'><Text>Palma</Text></Row>
+		<Row Tag='LOC_TCS_FLEETNAME_SUFFIX_ARMADA' Language='es_ES'><Text>Armada</Text></Row>
+		<Row Tag='LOC_TCS_FLEETNAME_SUFFIX_BOUNTY' Language='es_ES'><Text>Recompensa</Text></Row>
+		<Row Tag='LOC_TCS_FLEETNAME_SUFFIX_BUCCANEERS' Language='es_ES'><Text>Bucaneros</Text></Row>
+		<Row Tag='LOC_TCS_FLEETNAME_SUFFIX_CONQUEROR' Language='es_ES'><Text>Conquistador</Text></Row>
+		<Row Tag='LOC_TCS_FLEETNAME_SUFFIX_DREADNOUGHT' Language='es_ES'><Text>Acorazado</Text></Row>
+		<Row Tag='LOC_TCS_FLEETNAME_SUFFIX_EEL' Language='es_ES'><Text>Anguila</Text></Row>
+		<Row Tag='LOC_TCS_FLEETNAME_SUFFIX_ENDEAVOR' Language='es_ES'><Text>Empeño</Text></Row>
+		<Row Tag='LOC_TCS_FLEETNAME_SUFFIX_FLAGSHIP' Language='es_ES'><Text>Buque insignia</Text></Row>
+		<Row Tag='LOC_TCS_FLEETNAME_SUFFIX_FLOTILLA' Language='es_ES'><Text>Flotilla</Text></Row>
+		<Row Tag='LOC_TCS_FLEETNAME_SUFFIX_INTREPID' Language='es_ES'><Text>Intrépido</Text></Row>
+		<Row Tag='LOC_TCS_FLEETNAME_SUFFIX_INVINCIBLE' Language='es_ES'><Text>Invencible</Text></Row>
+		<Row Tag='LOC_TCS_FLEETNAME_SUFFIX_IRONSIDES' Language='es_ES'><Text>Costados de hierro</Text></Row>
+		<Row Tag='LOC_TCS_FLEETNAME_SUFFIX_NARWHAL' Language='es_ES'><Text>Narval</Text></Row>
+		<Row Tag='LOC_TCS_FLEETNAME_SUFFIX_ORCA' Language='es_ES'><Text>Orca</Text></Row>
+		<Row Tag='LOC_TCS_FLEETNAME_SUFFIX_REDOUBTABLE' Language='es_ES'><Text>Temible</Text></Row>
+		<Row Tag='LOC_TCS_FLEETNAME_SUFFIX_RESOLUTION' Language='es_ES'><Text>Resolución</Text></Row>
+		<Row Tag='LOC_TCS_FLEETNAME_SUFFIX_REVENGE' Language='es_ES'><Text>Venganza</Text></Row>
+		<Row Tag='LOC_TCS_FLEETNAME_SUFFIX_SEAWOLVES' Language='es_ES'><Text>Lobos marinos</Text></Row>
+		<Row Tag='LOC_TCS_FLEETNAME_SUFFIX_SHARK' Language='es_ES'><Text>Tiburón</Text></Row>
+		<Row Tag='LOC_TCS_FLEETNAME_SUFFIX_STRIKE_GROUP' Language='es_ES'><Text>Grupo</Text></Row>
+		<Row Tag='LOC_TCS_FLEETNAME_SUFFIX_TRIDENT' Language='es_ES'><Text>Tridente</Text></Row>
+		<Row Tag='LOC_TCS_FLEETNAME_SUFFIX_VICTORY' Language='es_ES'><Text>Victoria</Text></Row>
+		<Row Tag='LOC_TCS_FLEETNAME_SUFFIX_WHALE' Language='es_ES'><Text>Ballena</Text></Row>
+		<Row Tag='LOC_TCS_FLEETNAME_SUFFIX_FLOODS' Language='es_ES'><Text>Inundaciones</Text></Row>
+		<Row Tag='LOC_TCS_SQUADRONNAME_SUFFIX_ACES' Language='es_ES'><Text>Ases</Text></Row>
+		<Row Tag='LOC_TCS_SQUADRONNAME_SUFFIX_AIRMEN' Language='es_ES'><Text>Aviadores</Text></Row>
+		<Row Tag='LOC_TCS_SQUADRONNAME_SUFFIX_ANGELS' Language='es_ES'><Text>Ángeles</Text></Row>
+		<Row Tag='LOC_TCS_SQUADRONNAME_SUFFIX_BIRDS' Language='es_ES'><Text>Pájaros</Text></Row>
+		<Row Tag='LOC_TCS_SQUADRONNAME_SUFFIX_FALCONS' Language='es_ES'><Text>Halcónes</Text></Row>
+		<Row Tag='LOC_TCS_SQUADRONNAME_SUFFIX_FLYERS' Language='es_ES'><Text>Voladores</Text></Row>
+		<Row Tag='LOC_TCS_SQUADRONNAME_SUFFIX_GUNFIGHTERS' Language='es_ES'><Text>Pistoleros</Text></Row>
+		<Row Tag='LOC_TCS_SQUADRONNAME_SUFFIX_GUNS' Language='es_ES'><Text>Pistolas</Text></Row>
+		<Row Tag='LOC_TCS_SQUADRONNAME_SUFFIX_HAWKS' Language='es_ES'><Text>Halcones</Text></Row>
+		<Row Tag='LOC_TCS_SQUADRONNAME_SUFFIX_HORNETS' Language='es_ES'><Text>Avispones</Text></Row>
+		<Row Tag='LOC_TCS_SQUADRONNAME_SUFFIX_INTERCEPTORS' Language='es_ES'><Text>Interceptores</Text></Row>
+		<Row Tag='LOC_TCS_SQUADRONNAME_SUFFIX_INTRUDERS' Language='es_ES'><Text>Intrusos</Text></Row>
+		<Row Tag='LOC_TCS_SQUADRONNAME_SUFFIX_NIGHTSTALKERS' Language='es_ES'><Text>Acechadores nocturnos</Text></Row>
+		<Row Tag='LOC_TCS_SQUADRONNAME_SUFFIX_SQUADRON' Language='es_ES'><Text>Escuadrón</Text></Row>
+		<Row Tag='LOC_TCS_SQUADRONNAME_SUFFIX_THUNDERBOLTS' Language='es_ES'><Text>Truenos</Text></Row>
+		<Row Tag='LOC_TCS_SQUADRONNAME_SUFFIX_VAMPIRES' Language='es_ES'><Text>Vampiros</Text></Row>
+		<Row Tag='LOC_TCS_SQUADRONNAME_SUFFIX_WARHAWKS' Language='es_ES'><Text>Halcones de guerra</Text></Row>
+		<Row Tag='LOC_TCS_SQUADRONNAME_SUFFIX_WING' Language='es_ES'><Text>Ala</Text></Row>
+		<Row Tag='LOC_TCS_SQUADRONNAME_SUFFIX_FLAMES' Language='es_ES'><Text>Llamas</Text></Row>
+		<Row Tag='LOC_TCS_SQUADRONNAME_SUFFIX_WINDS' Language='es_ES'><Text>Vientos</Text></Row>
+		<Row Tag='LOC_TCS_SQUADRONNAME_SUFFIX_MONKEYS' Language='es_ES'><Text>Monos</Text></Row>
+		<Row Tag='LOC_TCS_SQUADRONNAME_SUFFIX_CRANES' Language='es_ES'><Text>Grullas</Text></Row>
+		<Row Tag='LOC_TCS_SQUADRONNAME_SUFFIX_MANTIS' Language='es_ES'><Text>Mantis</Text></Row>
+		<Row Tag='LOC_TCS_SQUADRONNAME_SUFFIX_PANDAS' Language='es_ES'><Text>Pandas</Text></Row>
+		<Row Tag='LOC_TCS_SQUADRONNAME_SUFFIX_ORDER' Language='es_ES'><Text>Orden</Text></Row>
+		<Row Tag='LOC_TCS_SQUADRONNAME_SUFFIX_HAND' Language='es_ES'><Text>Mano</Text></Row>
+		<Row Tag='LOC_TCS_SQUADRONNAME_SUFFIX_FIST' Language='es_ES'><Text>Puño</Text></Row>
+		<Row Tag='LOC_TCS_SQUADRONNAME_SUFFIX_CLAW' Language='es_ES'><Text>Garra</Text></Row>
+		<Row Tag='LOC_TCS_SQUADRONNAME_SUFFIX_STARS' Language='es_ES'><Text>Estrellas</Text></Row>
+		<Row Tag='LOC_TCS_SQUADRONNAME_SUFFIX_SWEEPERS' Language='es_ES'><Text>Barredores</Text></Row>
+		<Row Tag='LOC_TCS_SQUADRONNAME_SUFFIX_GRASSHOPPERS' Language='es_ES'><Text>Saltamontes</Text></Row>
+	</LocalizedText>
+</Database>

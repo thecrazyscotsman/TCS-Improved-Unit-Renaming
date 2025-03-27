@@ -6,7 +6,7 @@
 			<Text>TCS Improved Unit Renaming</Text>
 		</Row>
 		<Row Tag="LOC_MOD_TCS_IMPROVED_UNIT_RENAMING_DESCRIPTION">
-			<Text>Adds a [B]Randomize[/B] button to allow for random unit names. Includes an option to pull from your civilization's Citizen list and append it to an appropriate title.</Text>
+			<Text>Adds several options to randomize unit names.</Text>
 		</Row>
 		<Row Tag="LOC_MOD_TCS_IMPROVED_UNIT_RENAMING_AUTHORS">
 			<Text>thecrazyscotsman</Text>
