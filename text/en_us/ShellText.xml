@@ -7,7 +7,7 @@
 		<Row Tag="LOC_MOD_TCS_IMPROVED_UNIT_RENAMING_AUTHORS"><Text>thecrazyscotsman</Text></Row>
 		<Row Tag="LOC_MOD_TCS_IMPROVED_UNIT_RENAMING_THANKS"><Text>Archanist, for assisting with the Civ6 unit names.</Text></Row>
 		<Row Tag="LOC_MOD_TCS_IMPROVED_UNIT_RENAMING_COMPATIBILITY"><Text>This should be compatible with all other mods.</Text></Row>
-		<Row Tag="LOC_MOD_TCS_IMPROVED_UNIT_RENAMING_URL"><Text></Text></Row>
+		<Row Tag="LOC_MOD_TCS_IMPROVED_UNIT_RENAMING_URL"><Text>https://forums.civfanatics.com/resources/tcs-improved-unit-renaming.32129/</Text></Row>
 		
 		<!-- Panel Text -->
 		<Row Tag="LOC_MOD_TCS_UI_RANDOMIZE_UNIT_BUTTON_LABEL"><Text>[icon:NAR_REW_CUSTOM] Creative</Text></Row>
