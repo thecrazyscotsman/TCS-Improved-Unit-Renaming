@@ -30,7 +30,7 @@ class UnitRename extends Panel {
         this.onCloseButtonListener = this.onCloseButton.bind(this);
         this.onEngineInputListener = this.onEngineInput.bind(this);
         this.textboxMaxLength = 32;
-		this.debugRenamer = true;
+		this.debugRenamer = false;
     }
     onInitialize() {
         this.Root.classList.add('absolute', 'w-128', 'h-60', 'trigger-nav-help');
@@ -294,42 +294,60 @@ class UnitRename extends Panel {
 		if (iCurrentAge == iExplorationAge) {
 			// Regional first
 			if (localCultureType == "NAmer") { 
-				prefixType = 'PREFIX_RANK_LAND_TRIBE';
-				if (this.debugRenamer == true) {console.warn("[TCS-IUR] Prefix Type Changed: '" + prefixType + "'" );}
+				if (prefixType == 'PREFIX_RANK_LAND' || prefixType == 'PREFIX_RANK_SEA') {
+					prefixType = 'PREFIX_RANK_LAND_TRIBE';
+					if (this.debugRenamer == true) {console.warn("[TCS-IUR] Prefix Type Changed: '" + prefixType + "'" );}
+				}
 			}
 			else if (localCultureType == "SAmer") { 
-				prefixType = 'PREFIX_RANK_LAND_INCA';
-				if (this.debugRenamer == true) {console.warn("[TCS-IUR] Prefix Type Changed: '" + prefixType + "'" );}
+				if (prefixType == 'PREFIX_RANK_LAND' || prefixType == 'PREFIX_RANK_SEA') {
+					prefixType = 'PREFIX_RANK_LAND_INCA';
+					if (this.debugRenamer == true) {console.warn("[TCS-IUR] Prefix Type Changed: '" + prefixType + "'" );}
+				}
 			}
 			else if (localCultureType == "Asian") { 
-				prefixType = 'PREFIX_RANK_LAND_NEAREASTERN';
-				if (this.debugRenamer == true) {console.warn("[TCS-IUR] Prefix Type Changed: '" + prefixType + "'" );}
+				if (prefixType == 'PREFIX_RANK_LAND' || prefixType == 'PREFIX_RANK_SEA') {
+					prefixType = 'PREFIX_RANK_LAND_NEAREASTERN';
+					if (this.debugRenamer == true) {console.warn("[TCS-IUR] Prefix Type Changed: '" + prefixType + "'" );}
+				}
 			}
 			else if (localCultureType == "MidE") { 
-				prefixType = 'PREFIX_RANK_LAND_NEAREASTERN';
-				if (this.debugRenamer == true) {console.warn("[TCS-IUR] Prefix Type Changed: '" + prefixType + "'" );}
+				if (prefixType == 'PREFIX_RANK_LAND' || prefixType == 'PREFIX_RANK_SEA') {
+					prefixType = 'PREFIX_RANK_LAND_NEAREASTERN';
+					if (this.debugRenamer == true) {console.warn("[TCS-IUR] Prefix Type Changed: '" + prefixType + "'" );}
+				}
 			}
 			else if (localCultureType == "Afr") { 
-				prefixType = 'PREFIX_RANK_LAND_NEAREASTERN';
-				if (this.debugRenamer == true) {console.warn("[TCS-IUR] Prefix Type Changed: '" + prefixType + "'" );}
+				if (prefixType == 'PREFIX_RANK_LAND' || prefixType == 'PREFIX_RANK_SEA') {
+					prefixType = 'PREFIX_RANK_LAND_NEAREASTERN';
+					if (this.debugRenamer == true) {console.warn("[TCS-IUR] Prefix Type Changed: '" + prefixType + "'" );}
+				}
 			}
 			else if (localCultureType == "Euro") { 
-				prefixType = 'PREFIX_RANK_LAND_EUROPEAN';
-				if (this.debugRenamer == true) {console.warn("[TCS-IUR] Prefix Type Changed: '" + prefixType + "'" );}
+				if (prefixType == 'PREFIX_RANK_LAND' || prefixType == 'PREFIX_RANK_SEA') {
+					prefixType = 'PREFIX_RANK_LAND_EUROPEAN';
+					if (this.debugRenamer == true) {console.warn("[TCS-IUR] Prefix Type Changed: '" + prefixType + "'" );}
+				}
 			}
 			else {
-				prefixType = 'PREFIX_RANK_LAND_EUROPEAN';
-				if (this.debugRenamer == true) {console.warn("[TCS-IUR] Prefix Type Changed: '" + prefixType + "'" );}
+				if (prefixType == 'PREFIX_RANK_LAND' || prefixType == 'PREFIX_RANK_SEA') {
+					prefixType = 'PREFIX_RANK_LAND_EUROPEAN';
+					if (this.debugRenamer == true) {console.warn("[TCS-IUR] Prefix Type Changed: '" + prefixType + "'" );}
+				}
 			}
 			
 			// Civilizations next, to overwrite Regional if necessary
 			if (localCivType == "CIVILIZATION_HAWAII") {
-				prefixType = 'PREFIX_RANK_LAND_TRIBE';
-				if (this.debugRenamer == true) {console.warn("[TCS-IUR] Prefix Type Changed: '" + prefixType + "'" );}
+				if (prefixType == 'PREFIX_RANK_LAND' || prefixType == 'PREFIX_RANK_SEA') {
+					prefixType = 'PREFIX_RANK_LAND_TRIBE';
+					if (this.debugRenamer == true) {console.warn("[TCS-IUR] Prefix Type Changed: '" + prefixType + "'" );}
+				}
 			}
 			else if (localCivType == "CIVILIZATION_MING") {
-				prefixType = 'PREFIX_RANK_LAND_CHINA';
-				if (this.debugRenamer == true) {console.warn("[TCS-IUR] Prefix Type Changed: '" + prefixType + "'" );}
+				if (prefixType == 'PREFIX_RANK_LAND' || prefixType == 'PREFIX_RANK_SEA') {
+					prefixType = 'PREFIX_RANK_LAND_CHINA';
+					if (this.debugRenamer == true) {console.warn("[TCS-IUR] Prefix Type Changed: '" + prefixType + "'" );}
+				}
 			}
 		}
 		
