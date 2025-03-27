@@ -2,40 +2,19 @@
 <Database>
 	<EnglishText>
 		<!-- Shell Text -->
-		<Row Tag="LOC_MOD_TCS_IMPROVED_UNIT_RENAMING_NAME">
-			<Text>TCS Improved Unit Renaming</Text>
-		</Row>
-		<Row Tag="LOC_MOD_TCS_IMPROVED_UNIT_RENAMING_DESCRIPTION">
-			<Text>Adds several options to randomize unit names.</Text>
-		</Row>
-		<Row Tag="LOC_MOD_TCS_IMPROVED_UNIT_RENAMING_AUTHORS">
-			<Text>thecrazyscotsman</Text>
-		</Row>
-		<Row Tag="LOC_MOD_TCS_IMPROVED_UNIT_RENAMING_THANKS">
-			<Text>Archanist, for assisting with the Civ6 unit names.</Text>
-		</Row>
-		<Row Tag="LOC_MOD_TCS_IMPROVED_UNIT_RENAMING_COMPATIBILITY">
-			<Text>This should be compatible with all other mods.</Text>
-		</Row>
-		<Row Tag="LOC_MOD_TCS_IMPROVED_UNIT_RENAMING_URL">
-			<Text></Text>
-		</Row>
+		<Row Tag="LOC_MOD_TCS_IMPROVED_UNIT_RENAMING_NAME"><Text>TCS Improved Unit Renaming</Text></Row>
+		<Row Tag="LOC_MOD_TCS_IMPROVED_UNIT_RENAMING_DESCRIPTION"><Text>Adds several options to randomize unit names.</Text></Row>
+		<Row Tag="LOC_MOD_TCS_IMPROVED_UNIT_RENAMING_AUTHORS"><Text>thecrazyscotsman</Text></Row>
+		<Row Tag="LOC_MOD_TCS_IMPROVED_UNIT_RENAMING_THANKS"><Text>Archanist, for assisting with the Civ6 unit names.</Text></Row>
+		<Row Tag="LOC_MOD_TCS_IMPROVED_UNIT_RENAMING_COMPATIBILITY"><Text>This should be compatible with all other mods.</Text></Row>
+		<Row Tag="LOC_MOD_TCS_IMPROVED_UNIT_RENAMING_URL"><Text></Text></Row>
 		
 		<!-- Panel Text -->
-		<Row Tag="LOC_MOD_TCS_UI_RANDOMIZE_UNIT_BUTTON_LABEL">
-			<Text>[icon:NAR_REW_CUSTOM] Creative</Text>
-		</Row>
-		<Row Tag="LOC_MOD_TCS_UI_RANDOMIZE_CITIZEN_BUTTON_LABEL">
-			<Text>[icon:NAR_REW_UNIT] Citizen</Text>
-		</Row>
+		<Row Tag="LOC_MOD_TCS_UI_RANDOMIZE_UNIT_BUTTON_LABEL"><Text>[icon:NAR_REW_CUSTOM] Creative</Text></Row>
+		<Row Tag="LOC_MOD_TCS_UI_RANDOMIZE_CITIZEN_BUTTON_LABEL"><Text>[icon:NAR_REW_UNIT] Citizen</Text></Row>
 		
 		<!-- Tooltip text -->
-		<Row Tag="LOC_MOD_TCS_UI_RANDOMIZE_BUTTON_DEFAULT_TOOLTIP">
-			<Text>Generates random name from Creative pool</Text>
-		</Row>
-		<Row Tag="LOC_MOD_TCS_UI_RANDOMIZE_BUTTON_CITIZEN_POOL_TOOLTIP">
-			<Text>Generates random name from Citizen pool</Text>
-		</Row>
-				
+		<Row Tag="LOC_MOD_TCS_UI_RANDOMIZE_BUTTON_DEFAULT_TOOLTIP"><Text>Generates random name from Creative pool</Text></Row>
+		<Row Tag="LOC_MOD_TCS_UI_RANDOMIZE_BUTTON_CITIZEN_POOL_TOOLTIP"><Text>Generates random name from Citizen pool</Text></Row>	
 	</EnglishText>
 </Database>

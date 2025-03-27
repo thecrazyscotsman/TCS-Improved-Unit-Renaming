@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Translations done via Google Gemini - errors may be present -->
+<Database>
+	<LocalizedText>
+		<Row Tag='LOC_MOD_TCS_IMPROVED_UNIT_RENAMING_NAME' Language='ko_KR'><Text>TCS 개선된 유닛 이름 변경</Text></Row>
+		<Row Tag='LOC_MOD_TCS_IMPROVED_UNIT_RENAMING_DESCRIPTION' Language='ko_KR'><Text>유닛 이름 무작위화를 위한 여러 옵션을 추가합니다.</Text></Row>
+		<Row Tag='LOC_MOD_TCS_IMPROVED_UNIT_RENAMING_AUTHORS' Language='ko_KR'><Text>thecrazyscotsman</Text></Row>
+		<Row Tag='LOC_MOD_TCS_IMPROVED_UNIT_RENAMING_THANKS' Language='ko_KR'><Text>Archanist, for assisting with the Civ6 unit names.</Text></Row>
+		<Row Tag='LOC_MOD_TCS_IMPROVED_UNIT_RENAMING_COMPATIBILITY' Language='ko_KR'><Text>이것은 다른 모든 모드와 호환되어야 합니다.</Text></Row>
+		<Row Tag='LOC_MOD_TCS_UI_RANDOMIZE_UNIT_BUTTON_LABEL' Language='ko_KR'><Text>[icon:NAR_REW_CUSTOM] 창의적인</Text></Row>
+		<Row Tag='LOC_MOD_TCS_UI_RANDOMIZE_CITIZEN_BUTTON_LABEL' Language='ko_KR'><Text>[icon:NAR_REW_UNIT] 시민</Text></Row>
+		<Row Tag='LOC_MOD_TCS_UI_RANDOMIZE_BUTTON_DEFAULT_TOOLTIP' Language='ko_KR'><Text>크리에이티브 풀에서 임의의 이름을 생성합니다.</Text></Row>
+		<Row Tag='LOC_MOD_TCS_UI_RANDOMIZE_BUTTON_CITIZEN_POOL_TOOLTIP' Language='ko_KR'><Text>시민 풀에서 임의의 이름을 생성합니다.</Text></Row>		
+	</LocalizedText>
+</Database>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Translations done via Google Gemini - errors may be present -->
+<Database>
+	<LocalizedText>
+		<Row Tag='LOC_MOD_TCS_IMPROVED_UNIT_RENAMING_NAME' Language='it_IT'><Text>TCS Ridenominazione Unità Migliorata</Text></Row>
+		<Row Tag='LOC_MOD_TCS_IMPROVED_UNIT_RENAMING_DESCRIPTION' Language='it_IT'><Text>Aggiunge diverse opzioni per randomizzare i nomi delle unità.</Text></Row>
+		<Row Tag='LOC_MOD_TCS_IMPROVED_UNIT_RENAMING_AUTHORS' Language='it_IT'><Text>thecrazyscotsman</Text></Row>
+		<Row Tag='LOC_MOD_TCS_IMPROVED_UNIT_RENAMING_THANKS' Language='it_IT'><Text>Archanist, for assisting with the Civ6 unit names.</Text></Row>
+		<Row Tag='LOC_MOD_TCS_IMPROVED_UNIT_RENAMING_COMPATIBILITY' Language='it_IT'><Text>Questo dovrebbe essere compatibile con tutte le altre mod.</Text></Row>
+		<Row Tag='LOC_MOD_TCS_UI_RANDOMIZE_UNIT_BUTTON_LABEL' Language='it_IT'><Text>[icon:NAR_REW_CUSTOM] Creativo</Text></Row>
+		<Row Tag='LOC_MOD_TCS_UI_RANDOMIZE_CITIZEN_BUTTON_LABEL' Language='it_IT'><Text>[icon:NAR_REW_UNIT] Cittadino</Text></Row>
+		<Row Tag='LOC_MOD_TCS_UI_RANDOMIZE_BUTTON_DEFAULT_TOOLTIP' Language='it_IT'><Text>Genera un nome casuale dal pool Creativo.</Text></Row>
+		<Row Tag='LOC_MOD_TCS_UI_RANDOMIZE_BUTTON_CITIZEN_POOL_TOOLTIP' Language='it_IT'><Text>Genera un nome casuale dal pool Cittadino.</Text></Row>		
+	</LocalizedText>
+</Database>

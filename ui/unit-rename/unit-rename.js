@@ -179,6 +179,13 @@ class UnitRename extends Panel {
 		const iAntiquityAge = Game.getHash("AGE_ANTIQUITY");
 		const iExplorationAge = Game.getHash("AGE_EXPLORATION");
 		const iModernAge = Game.getHash("AGE_MODERN");
+
+		// Exploration Age uses same pool for Land and Sea, for now
+		if (iCurrentAge == iExplorationAge) {
+			if (prefixType == "PREFIX_RANK_SEA") {
+				prefixType = "PREFIX_RANK_LAND";
+			}
+		}
 		
 		// Get Player info
 		const localPlayerID = GameContext.localPlayerID;
@@ -231,52 +238,97 @@ class UnitRename extends Panel {
 			if (this.debugRenamer == true) {console.warn("[TCS-IUR] Generated Creative suffix: '" + suffix + "'");}
 		}
 		
-		// Update prefixType for certain civilizations/regions
-		if (localCivType == "CIVILIZATION_ROME") {
-			if (prefixType == 'PREFIX_RANK_LAND') {
-				prefixType = 'PREFIX_RANK_LAND_ROME';
-				if (this.debugRenamer == true) {console.warn("[TCS-IUR] Prefix Type Changed: '" + prefixType + "'" );}
+		// Update unique prefixTypes in Antiquity
+		if (iCurrentAge == iAntiquityAge) {
+			if (localCivType == "CIVILIZATION_ROME") {
+				if (prefixType == 'PREFIX_RANK_LAND') {
+					prefixType = 'PREFIX_RANK_LAND_ROME';
+					if (this.debugRenamer == true) {console.warn("[TCS-IUR] Prefix Type Changed: '" + prefixType + "'" );}
+				}
+			}
+			else if (localCivType == "CIVILIZATION_GREECE") {
+				if (prefixType == 'PREFIX_RANK_LAND') {
+					prefixType = 'PREFIX_RANK_LAND_GREECE';
+					if (this.debugRenamer == true) {console.warn("[TCS-IUR] Prefix Type Changed: '" + prefixType + "'" );}
+				}
+			}
+			else if (localCivType == "CIVILIZATION_HAN") {
+				if (prefixType == 'PREFIX_RANK_LAND') {
+					prefixType = 'PREFIX_RANK_LAND_HAN';
+					if (this.debugRenamer == true) {console.warn("[TCS-IUR] Prefix Type Changed: '" + prefixType + "'" );}
+				}
+			}
+			else if (localCivType == "CIVILIZATION_AKSUM") {
+				if (prefixType == 'PREFIX_RANK_LAND') {
+					prefixType = 'PREFIX_RANK_LAND_AKSUM';
+					if (this.debugRenamer == true) {console.warn("[TCS-IUR] Prefix Type Changed: '" + prefixType + "'" );}
+				}
+			}
+			else if (localCivType == "CIVILIZATION_CARTHAGE") {
+				if (prefixType == 'PREFIX_RANK_LAND') {
+					prefixType = 'PREFIX_RANK_LAND_CARTHAGE';
+					if (this.debugRenamer == true) {console.warn("[TCS-IUR] Prefix Type Changed: '" + prefixType + "'" );}
+				}
+			}
+			else if (localCivType == "CIVILIZATION_MAURYA") {
+				if (prefixType == 'PREFIX_RANK_LAND') {
+					prefixType = 'PREFIX_RANK_LAND_MAURYA';
+					if (this.debugRenamer == true) {console.warn("[TCS-IUR] Prefix Type Changed: '" + prefixType + "'" );}
+				}
+			}
+			else if (localCivType == "CIVILIZATION_MAYA") {
+				if (prefixType == 'PREFIX_RANK_LAND') {
+					prefixType = 'PREFIX_RANK_LAND_MAYA';
+					if (this.debugRenamer == true) {console.warn("[TCS-IUR] Prefix Type Changed: '" + prefixType + "'" );}
+				}
+			}
+			else if (localCivType == "CIVILIZATION_MISSISSIPIAN") {
+				if (prefixType == 'PREFIX_RANK_LAND') {
+					prefixType = 'PREFIX_RANK_LAND_MISSISSIPIAN';
+					if (this.debugRenamer == true) {console.warn("[TCS-IUR] Prefix Type Changed: '" + prefixType + "'" );}
+				}
 			}
 		}
-		else if (localCivType == "CIVILIZATION_GREECE") {
-			if (prefixType == 'PREFIX_RANK_LAND') {
-				prefixType = 'PREFIX_RANK_LAND_GREECE';
+
+		// Update unique prefixTypes in Exploration
+		if (iCurrentAge == iExplorationAge) {
+			// Regional first
+			if (localCultureType == "NAmer") { 
+				prefixType = 'PREFIX_RANK_LAND_TRIBE';
 				if (this.debugRenamer == true) {console.warn("[TCS-IUR] Prefix Type Changed: '" + prefixType + "'" );}
 			}
-		}
-		else if (localCivType == "CIVILIZATION_HAN") {
-			if (prefixType == 'PREFIX_RANK_LAND') {
-				prefixType = 'PREFIX_RANK_LAND_HAN';
+			else if (localCultureType == "SAmer") { 
+				prefixType = 'PREFIX_RANK_LAND_INCA';
 				if (this.debugRenamer == true) {console.warn("[TCS-IUR] Prefix Type Changed: '" + prefixType + "'" );}
 			}
-		}
-		else if (localCivType == "CIVILIZATION_AKSUM") {
-			if (prefixType == 'PREFIX_RANK_LAND') {
-				prefixType = 'PREFIX_RANK_LAND_AKSUM';
+			else if (localCultureType == "Asian") { 
+				prefixType = 'PREFIX_RANK_LAND_NEAREASTERN';
 				if (this.debugRenamer == true) {console.warn("[TCS-IUR] Prefix Type Changed: '" + prefixType + "'" );}
 			}
-		}
-		else if (localCivType == "CIVILIZATION_CARTHAGE") {
-			if (prefixType == 'PREFIX_RANK_LAND') {
-				prefixType = 'PREFIX_RANK_LAND_CARTHAGE';
+			else if (localCultureType == "MidE") { 
+				prefixType = 'PREFIX_RANK_LAND_NEAREASTERN';
 				if (this.debugRenamer == true) {console.warn("[TCS-IUR] Prefix Type Changed: '" + prefixType + "'" );}
 			}
-		}
-		else if (localCivType == "CIVILIZATION_MAURYA") {
-			if (prefixType == 'PREFIX_RANK_LAND') {
-				prefixType = 'PREFIX_RANK_LAND_MAURYA';
+			else if (localCultureType == "Afr") { 
+				prefixType = 'PREFIX_RANK_LAND_NEAREASTERN';
 				if (this.debugRenamer == true) {console.warn("[TCS-IUR] Prefix Type Changed: '" + prefixType + "'" );}
 			}
-		}
-		else if (localCivType == "CIVILIZATION_MAYA") {
-			if (prefixType == 'PREFIX_RANK_LAND') {
-				prefixType = 'PREFIX_RANK_LAND_MAYA';
+			else if (localCultureType == "Euro") { 
+				prefixType = 'PREFIX_RANK_LAND_EUROPEAN';
 				if (this.debugRenamer == true) {console.warn("[TCS-IUR] Prefix Type Changed: '" + prefixType + "'" );}
 			}
-		}
-		else if (localCivType == "CIVILIZATION_MISSISSIPIAN") {
-			if (prefixType == 'PREFIX_RANK_LAND') {
-				prefixType = 'PREFIX_RANK_LAND_MISSISSIPIAN';
+			else {
+				prefixType = 'PREFIX_RANK_LAND_EUROPEAN';
+				if (this.debugRenamer == true) {console.warn("[TCS-IUR] Prefix Type Changed: '" + prefixType + "'" );}
+			}
+			
+			// Civilizations next, to overwrite Regional if necessary
+			if (localCivType == "CIVILIZATION_HAWAII") {
+				prefixType = 'PREFIX_RANK_LAND_TRIBE';
+				if (this.debugRenamer == true) {console.warn("[TCS-IUR] Prefix Type Changed: '" + prefixType + "'" );}
+			}
+			else if (localCivType == "CIVILIZATION_MING") {
+				prefixType = 'PREFIX_RANK_LAND_CHINA';
 				if (this.debugRenamer == true) {console.warn("[TCS-IUR] Prefix Type Changed: '" + prefixType + "'" );}
 			}
 		}

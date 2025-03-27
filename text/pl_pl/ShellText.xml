@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Translations done via Google Gemini - errors may be present -->
+<Database>
+	<LocalizedText>
+		<Row Tag='LOC_MOD_TCS_IMPROVED_UNIT_RENAMING_NAME' Language='pl_PL'><Text>TCS Ulepszone Zmiany Nazw Jednostek</Text></Row>
+		<Row Tag='LOC_MOD_TCS_IMPROVED_UNIT_RENAMING_DESCRIPTION' Language='pl_PL'><Text>Dodaje kilka opcji do losowania nazw jednostek.</Text></Row>
+		<Row Tag='LOC_MOD_TCS_IMPROVED_UNIT_RENAMING_AUTHORS' Language='pl_PL'><Text>thecrazyscotsman</Text></Row>
+		<Row Tag='LOC_MOD_TCS_IMPROVED_UNIT_RENAMING_THANKS' Language='pl_PL'><Text>Archanist, for assisting with the Civ6 unit names.</Text></Row>
+		<Row Tag='LOC_MOD_TCS_IMPROVED_UNIT_RENAMING_COMPATIBILITY' Language='pl_PL'><Text>To powinno być kompatybilne ze wszystkimi innymi modami.</Text></Row>
+		<Row Tag='LOC_MOD_TCS_UI_RANDOMIZE_UNIT_BUTTON_LABEL' Language='pl_PL'><Text>[icon:NAR_REW_CUSTOM] Kreatywny</Text></Row>
+		<Row Tag='LOC_MOD_TCS_UI_RANDOMIZE_CITIZEN_BUTTON_LABEL' Language='pl_PL'><Text>[icon:NAR_REW_UNIT] Obywatel</Text></Row>
+		<Row Tag='LOC_MOD_TCS_UI_RANDOMIZE_BUTTON_DEFAULT_TOOLTIP' Language='pl_PL'><Text>Generuje losową nazwę z puli Kreatywnej.</Text></Row>
+		<Row Tag='LOC_MOD_TCS_UI_RANDOMIZE_BUTTON_CITIZEN_POOL_TOOLTIP' Language='pl_PL'><Text>Generuje losową nazwę z puli Obywateli.</Text></Row>			
+	</LocalizedText>
+</Database>

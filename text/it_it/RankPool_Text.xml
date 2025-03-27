@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Translations done via Google Gemini - errors may be present -->
+<Database>
+	<LocalizedText>
+		<Row Tag='LOC_TCS_MODERN_AIRRANK_PREFIX_AIR_MARSHAL' Language='it_IT'><Text>Maresciallo dell'aria</Text></Row>
+		<Row Tag='LOC_TCS_MODERN_AIRRANK_PREFIX_AIR_VICE_MARSHAL' Language='it_IT'><Text>Vice maresciallo dell'aria</Text></Row>
+		<Row Tag='LOC_TCS_MODERN_AIRRANK_PREFIX_AIR_COMMODORE' Language='it_IT'><Text>Commodoro dell'aria</Text></Row>
+		<Row Tag='LOC_TCS_MODERN_AIRRANK_PREFIX_WING_COMMANDER' Language='it_IT'><Text>Comandante di stormo</Text></Row>
+		<Row Tag='LOC_TCS_MODERN_AIRRANK_PREFIX_GROUP_CAPTAIN' Language='it_IT'><Text>Capitano di gruppo</Text></Row>
+		<Row Tag='LOC_TCS_MODERN_AIRRANK_PREFIX_SQUADRON_LEADER' Language='it_IT'><Text>Capo squadriglia</Text></Row>
+		<Row Tag='LOC_TCS_MODERN_ARMYRANK_PREFIX_FIELD_MARSHAL' Language='it_IT'><Text>Maresciallo di campo</Text></Row>
+		<Row Tag='LOC_TCS_MODERN_ARMYRANK_PREFIX_GENERAL' Language='it_IT'><Text>Generale</Text></Row>
+		<Row Tag='LOC_TCS_MODERN_ARMYRANK_PREFIX_BRIGADIER_GENERAL' Language='it_IT'><Text>Generale di brigata</Text></Row>
+		<Row Tag='LOC_TCS_MODERN_ARMYRANK_PREFIX_COLONEL' Language='it_IT'><Text>Colonnello</Text></Row>
+		<Row Tag='LOC_TCS_MODERN_ARMYRANK_PREFIX_MAJOR' Language='it_IT'><Text>Maggiore</Text></Row>
+		<Row Tag='LOC_TCS_MODERN_ARMYRANK_PREFIX_CAPTAIN' Language='it_IT'><Text>Capitano</Text></Row>
+		<Row Tag='LOC_TCS_MODERN_FLEETRANK_PREFIX_FLEET_ADMIRAL' Language='it_IT'><Text>Ammiraglio della flotta</Text></Row>
+		<Row Tag='LOC_TCS_MODERN_FLEETRANK_PREFIX_ADMIRAL' Language='it_IT'><Text>Ammiraglio</Text></Row>
+		<Row Tag='LOC_TCS_MODERN_FLEETRANK_PREFIX_REAR_ADMIRAL' Language='it_IT'><Text>Contrammiraglio</Text></Row>
+		<Row Tag='LOC_TCS_MODERN_FLEETRANK_PREFIX_COMMODORE' Language='it_IT'><Text>Commodoro</Text></Row>
+		<Row Tag='LOC_TCS_MODERN_FLEETRANK_PREFIX_CAPTAIN' Language='it_IT'><Text>Capitano</Text></Row>
+		<Row Tag='LOC_TCS_MODERN_FLEETRANK_PREFIX_LIEUTENANT' Language='it_IT'><Text>Tenente</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_EUROPEAN_1' Language='it_IT'><Text>Duca</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_EUROPEAN_1_FEMALE' Language='it_IT'><Text>Duchessa</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_EUROPEAN_2' Language='it_IT'><Text>Marchese</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_EUROPEAN_2_FEMALE' Language='it_IT'><Text>Marchesa</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_EUROPEAN_3' Language='it_IT'><Text>Conte</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_EUROPEAN_3_FEMALE' Language='it_IT'><Text>Contessa</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_EUROPEAN_4' Language='it_IT'><Text>Lord</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_EUROPEAN_4_FEMALE' Language='it_IT'><Text>Lady</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_EUROPEAN_5' Language='it_IT'><Text>Principe</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_EUROPEAN_5_FEMALE' Language='it_IT'><Text>Principessa</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_EUROPEAN_6' Language='it_IT'><Text>Sir</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_EUROPEAN_6_FEMALE' Language='it_IT'><Text>Dama</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_NEAREASTERN_1' Language='it_IT'><Text>Emiro</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_NEAREASTERN_1_FEMALE' Language='it_IT'><Text>Emira</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_NEAREASTERN_2' Language='it_IT'><Text>Atabeg</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_NEAREASTERN_2_FEMALE' Language='it_IT'><Text>Begum</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_NEAREASTERN_3' Language='it_IT'><Text>Shahzada</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_NEAREASTERN_3_FEMALE' Language='it_IT'><Text>Shahzadi</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_NEAREASTERN_4' Language='it_IT'><Text>Sceicco</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_NEAREASTERN_4_FEMALE' Language='it_IT'><Text>Shaykhah</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_NEAREASTERN_5' Language='it_IT'><Text>Sahib</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_NEAREASTERN_5_FEMALE' Language='it_IT'><Text>Sahiba</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_NEAREASTERN_6' Language='it_IT'><Text>Sharif</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_NEAREASTERN_6_FEMALE' Language='it_IT'><Text>Sharifa</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_INDIAN_1' Language='it_IT'><Text>Rajkumar</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_INDIAN_1_FEMALE' Language='it_IT'><Text>Rajkumari</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_INDIAN_2' Language='it_IT'><Text>Zamindar</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_INDIAN_2_FEMALE' Language='it_IT'><Text>Zamindari</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_INDIAN_3' Language='it_IT'><Text>Sardar</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_INDIAN_3_FEMALE' Language='it_IT'><Text>Sardarni</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_INDIAN_4' Language='it_IT'><Text>Pati</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_INDIAN_4_FEMALE' Language='it_IT'><Text>Patni</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_CHINA_1' Language='it_IT'><Text>Gong</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_CHINA_1_FEMALE' Language='it_IT'><Text>Gongzhu</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_CHINA_2' Language='it_IT'><Text>Hou</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_CHINA_2_FEMALE' Language='it_IT'><Text>Houfei</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_CHINA_3' Language='it_IT'><Text>Bo</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_CHINA_3_FEMALE' Language='it_IT'><Text>Bofu</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_CHINA_4' Language='it_IT'><Text>Zi</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_CHINA_4_FEMALE' Language='it_IT'><Text>Zifu</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_CHINA_5' Language='it_IT'><Text>Nan</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_CHINA_5_FEMALE' Language='it_IT'><Text>Nanfu</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_INCA_1' Language='it_IT'><Text>Apukispay</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_INCA_2' Language='it_IT'><Text>Unu</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_INCA_3' Language='it_IT'><Text>Waranqa Kamayuq</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_INCA_4' Language='it_IT'><Text>Pachak Kamayuq</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_INCA_5' Language='it_IT'><Text>Pishqa chunka Kamayuq</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_INCA_6' Language='it_IT'><Text>Chunka Kamayuqir</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_TRIBAL_1' Language='it_IT'><Text>Capo</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_TRIBAL_1_FEMALE' Language='it_IT'><Text>Capessa</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_TRIBAL_2' Language='it_IT'><Text>Patriarca</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_TRIBAL_2_FEMALE' Language='it_IT'><Text>Matriarca</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_TRIBAL_3' Language='it_IT'><Text>Capo clan</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_TRIBAL_3_FEMALE' Language='it_IT'><Text>Madre del clan</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_TRIBAL_4' Language='it_IT'><Text>Capo villaggio</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_TRIBAL_4_FEMALE' Language='it_IT'><Text>Madre del villaggio</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_GENERIC_1' Language='it_IT'><Text>Signore della guerra</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_GENERIC_2' Language='it_IT'><Text>Principe</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_GENERIC_2_FEMALE' Language='it_IT'><Text>Principessa</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_GENERIC_3' Language='it_IT'><Text>Comandante di truppe</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_GENERIC_4' Language='it_IT'><Text>Ufficiale-che-Guida</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_GENERIC_5' Language='it_IT'><Text>Portabandiera</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_GENERIC_6' Language='it_IT'><Text>Guardia Reale</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_AKSUM_1' Language='it_IT'><Text>Dejazmatch</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_AKSUM_2' Language='it_IT'><Text>Fitawrari</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_AKSUM_3' Language='it_IT'><Text>Balambaras</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_AKSUM_4' Language='it_IT'><Text>Grazmach</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_AKSUM_5' Language='it_IT'><Text>Qeñazmach</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_AKSUM_6' Language='it_IT'><Text>Azmach</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_CARTHAGE_1' Language='it_IT'><Text>Rab Mḥnt</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_CARTHAGE_2' Language='it_IT'><Text>Tm' Mḥnt</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_CARTHAGE_3' Language='it_IT'><Text>Rb M't</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_CARTHAGE_4' Language='it_IT'><Text>Rb Šny</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_CARTHAGE_5' Language='it_IT'><Text>Rb 'rṣ</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_CARTHAGE_6' Language='it_IT'><Text>Rb Tḥt Rb Mḥnt</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_MAURYA_1' Language='it_IT'><Text>Senapati</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_MAURYA_2' Language='it_IT'><Text>Hastyadhyaksha</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_MAURYA_3' Language='it_IT'><Text>Asvadhyaksha</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_MAURYA_4' Language='it_IT'><Text>Pardhana</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_MAURYA_5' Language='it_IT'><Text>Nayaka</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_MAURYA_6' Language='it_IT'><Text>Patika</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_MAYA_1' Language='it_IT'><Text>Ajaw</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_MAYA_2' Language='it_IT'><Text>Sajal</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_MAYA_3' Language='it_IT'><Text>Yajaw K'ahk'</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_MAYA_4' Language='it_IT'><Text>Nakom</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_MAYA_5' Language='it_IT'><Text>Lakam</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_MAYA_6' Language='it_IT'><Text>Ppolom</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_MISSISSIPPIAN_1' Language='it_IT'><Text>Sole</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_MISSISSIPPIAN_2' Language='it_IT'><Text>Serpente tatuato</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_MISSISSIPPIAN_2_FEMALE' Language='it_IT'><Text>Braccio tatuato</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_MISSISSIPPIAN_3' Language='it_IT'><Text>Primo guerriero</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_MISSISSIPPIAN_4' Language='it_IT'><Text>Nobile guerriero</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_MISSISSIPPIAN_5' Language='it_IT'><Text>Guerriero onorato</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_MISSISSIPPIAN_6' Language='it_IT'><Text>Guerriero</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_GREEK_1' Language='it_IT'><Text>Taxiarchos</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_GREEK_2' Language='it_IT'><Text>Syntagmatarchis</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_GREEK_3' Language='it_IT'><Text>Tagmatarches</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_GREEK_4' Language='it_IT'><Text>Tetrarch</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_GREEK_5' Language='it_IT'><Text>Dilochitès</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_GREEK_6' Language='it_IT'><Text>Lochagos</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_HAN_1' Language='it_IT'><Text>Jiangjun</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_HAN_2' Language='it_IT'><Text>Pian Jiangjun</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_HAN_3' Language='it_IT'><Text>Xiaowei</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_HAN_4' Language='it_IT'><Text>Sima</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_HAN_5' Language='it_IT'><Text>Junhou</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_HAN_6' Language='it_IT'><Text>Duwei</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_PERSIA_1' Language='it_IT'><Text>Spāhbad</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_PERSIA_2' Language='it_IT'><Text>Aspbed</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_PERSIA_3' Language='it_IT'><Text>Hazārbed</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_PERSIA_4' Language='it_IT'><Text>Pāygān-sālār</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_PERSIA_5' Language='it_IT'><Text>Darigbed</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_PERSIA_6' Language='it_IT'><Text>Marzbān</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_ROMAN_1' Language='it_IT'><Text>Tribunus</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_ROMAN_2' Language='it_IT'><Text>Praefectus</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_ROMAN_3' Language='it_IT'><Text>Centurio Primus</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_ROMAN_4' Language='it_IT'><Text>Centurio</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_ROMAN_5' Language='it_IT'><Text>Aquilifer</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_ROMAN_6' Language='it_IT'><Text>Optio</Text></Row>
+	</LocalizedText>
+</Database>

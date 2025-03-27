@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Translations done via Google Gemini - errors may be present -->
+<Database>
+	<LocalizedText>
+		<Row Tag='LOC_TCS_MODERN_AIRRANK_PREFIX_AIR_MARSHAL' Language='ko_KR'><Text>공군 원수</Text></Row>
+		<Row Tag='LOC_TCS_MODERN_AIRRANK_PREFIX_AIR_VICE_MARSHAL' Language='ko_KR'><Text>공군 중장</Text></Row>
+		<Row Tag='LOC_TCS_MODERN_AIRRANK_PREFIX_AIR_COMMODORE' Language='ko_KR'><Text>공군 준장</Text></Row>
+		<Row Tag='LOC_TCS_MODERN_AIRRANK_PREFIX_WING_COMMANDER' Language='ko_KR'><Text>공군 대령</Text></Row>
+		<Row Tag='LOC_TCS_MODERN_AIRRANK_PREFIX_GROUP_CAPTAIN' Language='ko_KR'><Text>공군 중령</Text></Row>
+		<Row Tag='LOC_TCS_MODERN_AIRRANK_PREFIX_SQUADRON_LEADER' Language='ko_KR'><Text>공군 소령</Text></Row>
+		<Row Tag='LOC_TCS_MODERN_ARMYRANK_PREFIX_FIELD_MARSHAL' Language='ko_KR'><Text>육군 원수</Text></Row>
+		<Row Tag='LOC_TCS_MODERN_ARMYRANK_PREFIX_GENERAL' Language='ko_KR'><Text>대장</Text></Row>
+		<Row Tag='LOC_TCS_MODERN_ARMYRANK_PREFIX_BRIGADIER_GENERAL' Language='ko_KR'><Text>육군 중장</Text></Row>
+		<Row Tag='LOC_TCS_MODERN_ARMYRANK_PREFIX_COLONEL' Language='ko_KR'><Text>육군 대령</Text></Row>
+		<Row Tag='LOC_TCS_MODERN_ARMYRANK_PREFIX_MAJOR' Language='ko_KR'><Text>육군 소령</Text></Row>
+		<Row Tag='LOC_TCS_MODERN_ARMYRANK_PREFIX_CAPTAIN' Language='ko_KR'><Text>육군 대위</Text></Row>
+		<Row Tag='LOC_TCS_MODERN_FLEETRANK_PREFIX_FLEET_ADMIRAL' Language='ko_KR'><Text>해군 원수</Text></Row>
+		<Row Tag='LOC_TCS_MODERN_FLEETRANK_PREFIX_ADMIRAL' Language='ko_KR'><Text>대장</Text></Row>
+		<Row Tag='LOC_TCS_MODERN_FLEETRANK_PREFIX_REAR_ADMIRAL' Language='ko_KR'><Text>해군 중장</Text></Row>
+		<Row Tag='LOC_TCS_MODERN_FLEETRANK_PREFIX_COMMODORE' Language='ko_KR'><Text>해군 소장</Text></Row>
+		<Row Tag='LOC_TCS_MODERN_FLEETRANK_PREFIX_CAPTAIN' Language='ko_KR'><Text>대령</Text></Row>
+		<Row Tag='LOC_TCS_MODERN_FLEETRANK_PREFIX_LIEUTENANT' Language='ko_KR'><Text>중령</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_EUROPEAN_1' Language='ko_KR'><Text>공작</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_EUROPEAN_1_FEMALE' Language='ko_KR'><Text>여공작</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_EUROPEAN_2' Language='ko_KR'><Text>후작</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_EUROPEAN_2_FEMALE' Language='ko_KR'><Text>여후작</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_EUROPEAN_3' Language='ko_KR'><Text>백작</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_EUROPEAN_3_FEMALE' Language='ko_KR'><Text>여백작</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_EUROPEAN_4' Language='ko_KR'><Text>영주</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_EUROPEAN_4_FEMALE' Language='ko_KR'><Text>여영주</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_EUROPEAN_5' Language='ko_KR'><Text>왕자</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_EUROPEAN_5_FEMALE' Language='ko_KR'><Text>공주</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_EUROPEAN_6' Language='ko_KR'><Text>경</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_EUROPEAN_6_FEMALE' Language='ko_KR'><Text>여경</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_NEAREASTERN_1' Language='ko_KR'><Text>에미르</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_NEAREASTERN_1_FEMALE' Language='ko_KR'><Text>여에미르</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_NEAREASTERN_2' Language='ko_KR'><Text>아타베그</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_NEAREASTERN_2_FEMALE' Language='ko_KR'><Text>베굼</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_NEAREASTERN_3' Language='ko_KR'><Text>샤ห์जादा</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_NEAREASTERN_3_FEMALE' Language='ko_KR'><Text>샤ห์जादी</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_NEAREASTERN_4' Language='ko_KR'><Text>셰이크</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_NEAREASTERN_4_FEMALE' Language='ko_KR'><Text>샤이카</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_NEAREASTERN_5' Language='ko_KR'><Text>사히브</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_NEAREASTERN_5_FEMALE' Language='ko_KR'><Text>사히바</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_NEAREASTERN_6' Language='ko_KR'><Text>샤리프</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_NEAREASTERN_6_FEMALE' Language='ko_KR'><Text>샤리파</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_INDIAN_1' Language='ko_KR'><Text>라지쿠마르</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_INDIAN_1_FEMALE' Language='ko_KR'><Text>라지쿠마리</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_INDIAN_2' Language='ko_KR'><Text>자민다르</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_INDIAN_2_FEMALE' Language='ko_KR'><Text>자민다리</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_INDIAN_3' Language='ko_KR'><Text>사르다르</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_INDIAN_3_FEMALE' Language='ko_KR'><Text>사르다르니</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_INDIAN_4' Language='ko_KR'><Text>파티</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_INDIAN_4_FEMALE' Language='ko_KR'><Text>파트니</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_CHINA_1' Language='ko_KR'><Text>공 (公)</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_CHINA_1_FEMALE' Language='ko_KR'><Text>공주 (公主)</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_CHINA_2' Language='ko_KR'><Text>후 (侯)</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_CHINA_2_FEMALE' Language='ko_KR'><Text>후비 (侯妃)</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_CHINA_3' Language='ko_KR'><Text>백 (伯)</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_CHINA_3_FEMALE' Language='ko_KR'><Text>백부 (伯父)</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_CHINA_4' Language='ko_KR'><Text>자 (子)</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_CHINA_4_FEMALE' Language='ko_KR'><Text>자부 (子婦)</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_CHINA_5' Language='ko_KR'><Text>남 (男)</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_CHINA_5_FEMALE' Language='ko_KR'><Text>남부 (男婦)</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_INCA_1' Language='ko_KR'><Text>아푸키스파이</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_INCA_2' Language='ko_KR'><Text>우누</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_INCA_3' Language='ko_KR'><Text>와랑카 카마유크</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_INCA_4' Language='ko_KR'><Text>파차크 카마유크</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_INCA_5' Language='ko_KR'><Text>피슈카 춘카 카마유크</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_INCA_6' Language='ko_KR'><Text>춘카 카마유키르</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_TRIBAL_1' Language='ko_KR'><Text>추장</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_TRIBAL_1_FEMALE' Language='ko_KR'><Text>여추장</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_TRIBAL_2' Language='ko_KR'><Text>족장</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_TRIBAL_2_FEMALE' Language='ko_KR'><Text>여족장</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_TRIBAL_3' Language='ko_KR'><Text>씨족장</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_TRIBAL_3_FEMALE' Language='ko_KR'><Text>씨족 어머니</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_TRIBAL_4' Language='ko_KR'><Text>마을 촌장</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_TRIBAL_4_FEMALE' Language='ko_KR'><Text>마을 어머니</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_GENERIC_1' Language='ko_KR'><Text>군벌</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_GENERIC_2' Language='ko_KR'><Text>왕자</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_GENERIC_2_FEMALE' Language='ko_KR'><Text>공주</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_GENERIC_3' Language='ko_KR'><Text>부대 지휘관</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_GENERIC_4' Language='ko_KR'><Text>이끄는 장교</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_GENERIC_5' Language='ko_KR'><Text>기수</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_GENERIC_6' Language='ko_KR'><Text>왕실 경호대</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_AKSUM_1' Language='ko_KR'><Text>데자즈마치</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_AKSUM_2' Language='ko_KR'><Text>피타우리</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_AKSUM_3' Language='ko_KR'><Text>발람바라스</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_AKSUM_4' Language='ko_KR'><Text>그라즈마치</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_AKSUM_5' Language='ko_KR'><Text>케냐즈마치</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_AKSUM_6' Language='ko_KR'><Text>아즈마치</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_CARTHAGE_1' Language='ko_KR'><Text>라브 므흐نت</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_CARTHAGE_2' Language='ko_KR'><Text>트므 므흐نت</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_CARTHAGE_3' Language='ko_KR'><Text>르브 므트</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_CARTHAGE_4' Language='ko_KR'><Text>르브 슈니</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_CARTHAGE_5' Language='ko_KR'><Text>르브 아르슈</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_CARTHAGE_6' Language='ko_KR'><Text>르브 트흐트 르브 므흐نت</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_MAURYA_1' Language='ko_KR'><Text>세나파티</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_MAURYA_2' Language='ko_KR'><Text>하스티아디약샤</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_MAURYA_3' Language='ko_KR'><Text>아스와디약샤</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_MAURYA_4' Language='ko_KR'><Text>파르다나</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_MAURYA_5' Language='ko_KR'><Text>나야카</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_MAURYA_6' Language='ko_KR'><Text>파티카</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_MAYA_1' Language='ko_KR'><Text>아자우</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_MAYA_2' Language='ko_KR'><Text>사잘</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_MAYA_3' Language='ko_KR'><Text>야자우 카흐크</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_MAYA_4' Language='ko_KR'><Text>나콤</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_MAYA_5' Language='ko_KR'><Text>라캄</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_MAYA_6' Language='ko_KR'><Text>프폴롬</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_MISSISSIPPIAN_1' Language='ko_KR'><Text>태양</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_MISSISSIPPIAN_2' Language='ko_KR'><Text>문신한 뱀</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_MISSISSIPPIAN_2_FEMALE' Language='ko_KR'><Text>문신한 팔</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_MISSISSIPPIAN_3' Language='ko_KR'><Text>첫 번째 전사</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_MISSISSIPPIAN_4' Language='ko_KR'><Text>고귀한 전사</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_MISSISSIPPIAN_5' Language='ko_KR'><Text>명예로운 전사</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_MISSISSIPPIAN_6' Language='ko_KR'><Text>전사</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_GREEK_1' Language='ko_KR'><Text>タクシアρχος</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_GREEK_2' Language='ko_KR'><Text>신타그마타르키스</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_GREEK_3' Language='ko_KR'><Text>타그마타르키스</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_GREEK_4' Language='ko_KR'><Text>테트라르크</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_GREEK_5' Language='ko_KR'><Text>딜로키테스</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_GREEK_6' Language='ko_KR'><Text>로카고스</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_HAN_1' Language='ko_KR'><Text>장군 (將軍)</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_HAN_2' Language='ko_KR'><Text>편장군 (偏將軍)</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_HAN_3' Language='ko_KR'><Text>교위 (校尉)</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_HAN_4' Language='ko_KR'><Text>사마 (司馬)</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_HAN_5' Language='ko_KR'><Text>군후 (軍候)</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_HAN_6' Language='ko_KR'><Text>도위 (都尉)</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_PERSIA_1' Language='ko_KR'><Text>스파흐바드</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_PERSIA_2' Language='ko_KR'><Text>아스페드</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_PERSIA_3' Language='ko_KR'><Text>하자르베드</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_PERSIA_4' Language='ko_KR'><Text>파이간-살라르</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_PERSIA_5' Language='ko_KR'><Text>다리그베드</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_PERSIA_6' Language='ko_KR'><Text>마르즈반</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_ROMAN_1' Language='ko_KR'><Text>트리부누스</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_ROMAN_2' Language='ko_KR'><Text>프라에펙투스</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_ROMAN_3' Language='ko_KR'><Text>켄투리오 프리무스</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_ROMAN_4' Language='ko_KR'><Text>켄투리오</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_ROMAN_5' Language='ko_KR'><Text>아퀼리페르</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_ROMAN_6' Language='ko_KR'><Text>옵티오</Text></Row>
+	</LocalizedText>
+</Database>

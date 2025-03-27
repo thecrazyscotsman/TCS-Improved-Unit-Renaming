@@ -46,6 +46,17 @@
 					<Item>text/en_us/CitizenPool_Text.xml</Item>
 					
 					<!-- Batch translations done via Google Gemini - errors may be present -->
+					<!-- To submit translation fixes please create a pull request at this mod's Github repository: https://github.com/thecrazyscotsman/TCS-Improved-Unit-Renaming -->
+					<Item locale="de_DE">text/de_de/ShellText.xml</Item>
+					<Item locale="es_ES">text/es_es/ShellText.xml</Item>
+					<Item locale="it_IT">text/it_it/ShellText.xml</Item>
+					<Item locale="ja_JP">text/ja_jp/ShellText.xml</Item>
+					<Item locale="ko_KR">text/ko_kr/ShellText.xml</Item>
+					<Item locale="pl_PL">text/pl_pl/ShellText.xml</Item>
+					<Item locale="pt_BR">text/pt_br/ShellText.xml</Item>
+					<Item locale="ru_RU">text/ru_ru/ShellText.xml</Item>
+					<Item locale="zh_Hans_CN">text/zh_hans_cn/ShellText.xml</Item>
+
 					<Item locale="de_DE">text/de_de/CreativePool_Text.xml</Item>
 					<Item locale="es_ES">text/es_es/CreativePool_Text.xml</Item>
 					<Item locale="it_IT">text/it_it/CreativePool_Text.xml</Item>
@@ -55,6 +66,16 @@
 					<Item locale="pt_BR">text/pt_br/CreativePool_Text.xml</Item>
 					<Item locale="ru_RU">text/ru_ru/CreativePool_Text.xml</Item>
 					<Item locale="zh_Hans_CN">text/zh_hans_cn/CreativePool_Text.xml</Item>
+
+					<Item locale="de_DE">text/de_de/RankPool_Text.xml</Item>
+					<Item locale="es_ES">text/es_es/RankPool_Text.xml</Item>
+					<Item locale="it_IT">text/it_it/RankPool_Text.xml</Item>
+					<Item locale="ja_JP">text/ja_jp/RankPool_Text.xml</Item>
+					<Item locale="ko_KR">text/ko_kr/RankPool_Text.xml</Item>
+					<Item locale="pl_PL">text/pl_pl/RankPool_Text.xml</Item>
+					<Item locale="pt_BR">text/pt_br/RankPool_Text.xml</Item>
+					<Item locale="ru_RU">text/ru_ru/RankPool_Text.xml</Item>
+					<Item locale="zh_Hans_CN">text/zh_hans_cn/RankPool_Text.xml</Item>
 				</UpdateText>
 			</Actions>
 		</ActionGroup>
@@ -94,5 +115,17 @@
 	</ActionGroups>
 	<LocalizedText>
 		<File>text/en_us/ShellText.xml</File>
+
+		<!-- Batch translations done via Google Gemini - errors may be present -->
+		<!-- To submit translation fixes please create a pull request at this mod's Github repository: https://github.com/thecrazyscotsman/TCS-Improved-Unit-Renaming -->
+		<File>text/de_de/ShellText.xml</File>
+		<File>text/es_es/ShellText.xml</File>
+		<File>text/it_it/ShellText.xml</File>
+		<File>text/ja_jp/ShellText.xml</File>
+		<File>text/ko_kr/ShellText.xml</File>
+		<File>text/pl_pl/ShellText.xml</File>
+		<File>text/pt_br/ShellText.xml</File>
+		<File>text/ru_ru/ShellText.xml</File>
+		<File>text/zh_hans_cn/ShellText.xml</File>
 	</LocalizedText>
 </Mod>

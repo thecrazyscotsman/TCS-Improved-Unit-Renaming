@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Translations done via Google Gemini - errors may be present -->
+<Database>
+	<LocalizedText>
+		<Row Tag='LOC_MOD_TCS_IMPROVED_UNIT_RENAMING_NAME' Language='ru_RU'><Text>TCS Улучшенное Переименование Юнитов</Text></Row>
+		<Row Tag='LOC_MOD_TCS_IMPROVED_UNIT_RENAMING_DESCRIPTION' Language='ru_RU'><Text>Добавляет несколько опций для рандомизации имен юнитов.</Text></Row>
+		<Row Tag='LOC_MOD_TCS_IMPROVED_UNIT_RENAMING_AUTHORS' Language='ru_RU'><Text>thecrazyscotsman</Text></Row>
+		<Row Tag='LOC_MOD_TCS_IMPROVED_UNIT_RENAMING_THANKS' Language='ru_RU'><Text>Archanist, for assisting with the Civ6 unit names.</Text></Row>
+		<Row Tag='LOC_MOD_TCS_IMPROVED_UNIT_RENAMING_COMPATIBILITY' Language='ru_RU'><Text>Это должно быть совместимо co всеми другими модами.</Text></Row>
+		<Row Tag='LOC_MOD_TCS_UI_RANDOMIZE_UNIT_BUTTON_LABEL' Language='ru_RU'><Text>[icon:NAR_REW_CUSTOM] Креативный</Text></Row>
+		<Row Tag='LOC_MOD_TCS_UI_RANDOMIZE_CITIZEN_BUTTON_LABEL' Language='ru_RU'><Text>[icon:NAR_REW_UNIT] Гражданин</Text></Row>
+		<Row Tag='LOC_MOD_TCS_UI_RANDOMIZE_BUTTON_DEFAULT_TOOLTIP' Language='ru_RU'><Text>Генерирует случайное имя из креативного пула.</Text></Row>
+		<Row Tag='LOC_MOD_TCS_UI_RANDOMIZE_BUTTON_CITIZEN_POOL_TOOLTIP' Language='ru_RU'><Text>Генерирует случайное имя из пула граждан.</Text></Row>	
+	</LocalizedText>
+</Database>

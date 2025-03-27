@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Translations done via Google Gemini - errors may be present -->
+<Database>
+	<LocalizedText>
+		<Row Tag='LOC_MOD_TCS_IMPROVED_UNIT_RENAMING_NAME' Language='ja_JP'><Text>TCS 改良されたユニット名の変更</Text></Row>
+		<Row Tag='LOC_MOD_TCS_IMPROVED_UNIT_RENAMING_DESCRIPTION' Language='ja_JP'><Text>ユニット名をランダム化するためのいくつかのオプションを追加します。</Text></Row>
+		<Row Tag='LOC_MOD_TCS_IMPROVED_UNIT_RENAMING_AUTHORS' Language='ja_JP'><Text>thecrazyscotsman</Text></Row>
+		<Row Tag='LOC_MOD_TCS_IMPROVED_UNIT_RENAMING_THANKS' Language='ja_JP'><Text>Archanist, for assisting with the Civ6 unit names.</Text></Row>
+		<Row Tag='LOC_MOD_TCS_IMPROVED_UNIT_RENAMING_COMPATIBILITY' Language='ja_JP'><Text>これは他のすべてのMODと互換性があるはずです。</Text></Row>
+		<Row Tag='LOC_MOD_TCS_UI_RANDOMIZE_UNIT_BUTTON_LABEL' Language='ja_JP'><Text>[icon:NAR_REW_CUSTOM] クリエイティブ</Text></Row>
+		<Row Tag='LOC_MOD_TCS_UI_RANDOMIZE_CITIZEN_BUTTON_LABEL' Language='ja_JP'><Text>[icon:NAR_REW_UNIT] 市民</Text></Row>
+		<Row Tag='LOC_MOD_TCS_UI_RANDOMIZE_BUTTON_DEFAULT_TOOLTIP' Language='ja_JP'><Text>クリエイティブプールからランダムな名前を生成します。</Text></Row>
+		<Row Tag='LOC_MOD_TCS_UI_RANDOMIZE_BUTTON_CITIZEN_POOL_TOOLTIP' Language='ja_JP'><Text>市民プールからランダムな名前を生成します。</Text></Row>		
+	</LocalizedText>
+</Database>

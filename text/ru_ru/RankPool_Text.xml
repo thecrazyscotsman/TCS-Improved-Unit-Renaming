@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Translations done via Google Gemini - errors may be present -->
+<Database>
+	<LocalizedText>
+		<Row Tag='LOC_TCS_MODERN_AIRRANK_PREFIX_AIR_MARSHAL' Language='ru_RU'><Text>Главный маршал авиации</Text></Row>
+		<Row Tag='LOC_TCS_MODERN_AIRRANK_PREFIX_AIR_VICE_MARSHAL' Language='ru_RU'><Text>Генерал-полковник авиации</Text></Row>
+		<Row Tag='LOC_TCS_MODERN_AIRRANK_PREFIX_AIR_COMMODORE' Language='ru_RU'><Text>Генерал-майор авиации</Text></Row>
+		<Row Tag='LOC_TCS_MODERN_AIRRANK_PREFIX_WING_COMMANDER' Language='ru_RU'><Text>Полковник авиации</Text></Row>
+		<Row Tag='LOC_TCS_MODERN_AIRRANK_PREFIX_GROUP_CAPTAIN' Language='ru_RU'><Text>Подполковник авиации</Text></Row>
+		<Row Tag='LOC_TCS_MODERN_AIRRANK_PREFIX_SQUADRON_LEADER' Language='ru_RU'><Text>Майор авиации</Text></Row>
+		<Row Tag='LOC_TCS_MODERN_ARMYRANK_PREFIX_FIELD_MARSHAL' Language='ru_RU'><Text>Маршал Советского Союза</Text></Row>
+		<Row Tag='LOC_TCS_MODERN_ARMYRANK_PREFIX_GENERAL' Language='ru_RU'><Text>Генерал армии</Text></Row>
+		<Row Tag='LOC_TCS_MODERN_ARMYRANK_PREFIX_BRIGADIER_GENERAL' Language='ru_RU'><Text>Генерал-полковник</Text></Row>
+		<Row Tag='LOC_TCS_MODERN_ARMYRANK_PREFIX_COLONEL' Language='ru_RU'><Text>Генерал-лейтенант</Text></Row>
+		<Row Tag='LOC_TCS_MODERN_ARMYRANK_PREFIX_MAJOR' Language='ru_RU'><Text>Генерал-майор</Text></Row>
+		<Row Tag='LOC_TCS_MODERN_ARMYRANK_PREFIX_CAPTAIN' Language='ru_RU'><Text>Полковник</Text></Row>
+		<Row Tag='LOC_TCS_MODERN_FLEETRANK_PREFIX_FLEET_ADMIRAL' Language='ru_RU'><Text>Адмирал флота</Text></Row>
+		<Row Tag='LOC_TCS_MODERN_FLEETRANK_PREFIX_ADMIRAL' Language='ru_RU'><Text>Адмирал</Text></Row>
+		<Row Tag='LOC_TCS_MODERN_FLEETRANK_PREFIX_REAR_ADMIRAL' Language='ru_RU'><Text>Вице-адмирал</Text></Row>
+		<Row Tag='LOC_TCS_MODERN_FLEETRANK_PREFIX_COMMODORE' Language='ru_RU'><Text>Контр-адмирал</Text></Row>
+		<Row Tag='LOC_TCS_MODERN_FLEETRANK_PREFIX_CAPTAIN' Language='ru_RU'><Text>Капитан 1-го ранга</Text></Row>
+		<Row Tag='LOC_TCS_MODERN_FLEETRANK_PREFIX_LIEUTENANT' Language='ru_RU'><Text>Капитан 2-го ранга</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_EUROPEAN_1' Language='ru_RU'><Text>Герцог</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_EUROPEAN_1_FEMALE' Language='ru_RU'><Text>Герцогиня</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_EUROPEAN_2' Language='ru_RU'><Text>Маркиз</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_EUROPEAN_2_FEMALE' Language='ru_RU'><Text>Маркиза</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_EUROPEAN_3' Language='ru_RU'><Text>Граф</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_EUROPEAN_3_FEMALE' Language='ru_RU'><Text>Графиня</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_EUROPEAN_4' Language='ru_RU'><Text>Лорд</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_EUROPEAN_4_FEMALE' Language='ru_RU'><Text>Леди</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_EUROPEAN_5' Language='ru_RU'><Text>Принц</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_EUROPEAN_5_FEMALE' Language='ru_RU'><Text>Принцесса</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_EUROPEAN_6' Language='ru_RU'><Text>Сэр</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_EUROPEAN_6_FEMALE' Language='ru_RU'><Text>Дама</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_NEAREASTERN_1' Language='ru_RU'><Text>Эмир</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_NEAREASTERN_1_FEMALE' Language='ru_RU'><Text>Эмира</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_NEAREASTERN_2' Language='ru_RU'><Text>Атабек</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_NEAREASTERN_2_FEMALE' Language='ru_RU'><Text>Бегум</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_NEAREASTERN_3' Language='ru_RU'><Text>Шахзаде</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_NEAREASTERN_3_FEMALE' Language='ru_RU'><Text>Шахзади</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_NEAREASTERN_4' Language='ru_RU'><Text>Шейх</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_NEAREASTERN_4_FEMALE' Language='ru_RU'><Text>Шейха</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_NEAREASTERN_5' Language='ru_RU'><Text>Сахиб</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_NEAREASTERN_5_FEMALE' Language='ru_RU'><Text>Сахиба</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_NEAREASTERN_6' Language='ru_RU'><Text>Шариф</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_NEAREASTERN_6_FEMALE' Language='ru_RU'><Text>Шарифа</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_INDIAN_1' Language='ru_RU'><Text>Раджкумар</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_INDIAN_1_FEMALE' Language='ru_RU'><Text>Раджкумари</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_INDIAN_2' Language='ru_RU'><Text>Заминдар</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_INDIAN_2_FEMALE' Language='ru_RU'><Text>Заминдари</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_INDIAN_3' Language='ru_RU'><Text>Сардар</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_INDIAN_3_FEMALE' Language='ru_RU'><Text>Сардарни</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_INDIAN_4' Language='ru_RU'><Text>Пати</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_INDIAN_4_FEMALE' Language='ru_RU'><Text>Патни</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_CHINA_1' Language='ru_RU'><Text>Гун</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_CHINA_1_FEMALE' Language='ru_RU'><Text>Гунчжу</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_CHINA_2' Language='ru_RU'><Text>Хоу</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_CHINA_2_FEMALE' Language='ru_RU'><Text>Хоуфэй</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_CHINA_3' Language='ru_RU'><Text>Бо</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_CHINA_3_FEMALE' Language='ru_RU'><Text>Бофу</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_CHINA_4' Language='ru_RU'><Text>Цзы</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_CHINA_4_FEMALE' Language='ru_RU'><Text>Цзыфу</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_CHINA_5' Language='ru_RU'><Text>Нань</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_CHINA_5_FEMALE' Language='ru_RU'><Text>Наньфу</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_INCA_1' Language='ru_RU'><Text>Апукиспай</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_INCA_2' Language='ru_RU'><Text>Уну</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_INCA_3' Language='ru_RU'><Text>Варанка Камаюк</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_INCA_4' Language='ru_RU'><Text>Пачак Камаюк</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_INCA_5' Language='ru_RU'><Text>Пишка чунка Камаюк</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_INCA_6' Language='ru_RU'><Text>Чунга Камаюкир</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_TRIBAL_1' Language='ru_RU'><Text>Вождь</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_TRIBAL_1_FEMALE' Language='ru_RU'><Text>Вождица</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_TRIBAL_2' Language='ru_RU'><Text>Патриарх</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_TRIBAL_2_FEMALE' Language='ru_RU'><Text>Матриарх</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_TRIBAL_3' Language='ru_RU'><Text>Глава клана</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_TRIBAL_3_FEMALE' Language='ru_RU'><Text>Мать клана</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_TRIBAL_4' Language='ru_RU'><Text>Староста деревни</Text></Row>
+		<Row Tag='LOC_TCS_EXPLORATION_ARMYRANK_PREFIX_TRIBAL_4_FEMALE' Language='ru_RU'><Text>Мать деревни</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_GENERIC_1' Language='ru_RU'><Text>Военачальник</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_GENERIC_2' Language='ru_RU'><Text>Принц</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_GENERIC_2_FEMALE' Language='ru_RU'><Text>Принцесса</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_GENERIC_3' Language='ru_RU'><Text>Командир отряда</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_GENERIC_4' Language='ru_RU'><Text>Офицер-который-ведет</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_GENERIC_5' Language='ru_RU'><Text>Знаменосец</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_GENERIC_6' Language='ru_RU'><Text>Королевский гвардеец</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_AKSUM_1' Language='ru_RU'><Text>Дэджазмач</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_AKSUM_2' Language='ru_RU'><Text>Фитаврари</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_AKSUM_3' Language='ru_RU'><Text>Баламбарас</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_AKSUM_4' Language='ru_RU'><Text>Гразмач</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_AKSUM_5' Language='ru_RU'><Text>Кэньязмач</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_AKSUM_6' Language='ru_RU'><Text>Азмач</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_CARTHAGE_1' Language='ru_RU'><Text>Раб Мхнт</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_CARTHAGE_2' Language='ru_RU'><Text>Тм' Мхнт</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_CARTHAGE_3' Language='ru_RU'><Text>Рб М'т</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_CARTHAGE_4' Language='ru_RU'><Text>Рб Шни</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_CARTHAGE_5' Language='ru_RU'><Text>Рб 'рṣ</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_CARTHAGE_6' Language='ru_RU'><Text>Рб Тхт Рб Мхнт</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_MAURYA_1' Language='ru_RU'><Text>Сенапати</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_MAURYA_2' Language='ru_RU'><Text>Хастьядхьякша</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_MAURYA_3' Language='ru_RU'><Text>Ашвадхьякша</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_MAURYA_4' Language='ru_RU'><Text>Пардхана</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_MAURYA_5' Language='ru_RU'><Text>Наяка</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_MAURYA_6' Language='ru_RU'><Text>Патика</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_MAYA_1' Language='ru_RU'><Text>Аджав</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_MAYA_2' Language='ru_RU'><Text>Саджал</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_MAYA_3' Language='ru_RU'><Text>Яджав Кахк'</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_MAYA_4' Language='ru_RU'><Text>Наком</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_MAYA_5' Language='ru_RU'><Text>Лакам</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_MAYA_6' Language='ru_RU'><Text>Пполом</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_MISSISSIPPIAN_1' Language='ru_RU'><Text>Солнце</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_MISSISSIPPIAN_2' Language='ru_RU'><Text>Татуированная змея</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_MISSISSIPPIAN_2_FEMALE' Language='ru_RU'><Text>Татуированная рука</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_MISSISSIPPIAN_3' Language='ru_RU'><Text>Первый воин</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_MISSISSIPPIAN_4' Language='ru_RU'><Text>Благородный воин</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_MISSISSIPPIAN_5' Language='ru_RU'><Text>Почтенный воин</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_MISSISSIPPIAN_6' Language='ru_RU'><Text>Воин</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_GREEK_1' Language='ru_RU'><Text>Таксиархос</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_GREEK_2' Language='ru_RU'><Text>Синтагматархис</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_GREEK_3' Language='ru_RU'><Text>Тагматархис</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_GREEK_4' Language='ru_RU'><Text>Тетрарх</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_GREEK_5' Language='ru_RU'><Text>Дилохитес</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_GREEK_6' Language='ru_RU'><Text>Логос</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_HAN_1' Language='ru_RU'><Text>Цзянцзюнь</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_HAN_2' Language='ru_RU'><Text>Пянь Цзянцзюнь</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_HAN_3' Language='ru_RU'><Text>Сяовэй</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_HAN_4' Language='ru_RU'><Text>Сыма</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_HAN_5' Language='ru_RU'><Text>Цзюньхоу</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_HAN_6' Language='ru_RU'><Text>Дувэй</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_PERSIA_1' Language='ru_RU'><Text>Спахбад</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_PERSIA_2' Language='ru_RU'><Text>Аспбед</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_PERSIA_3' Language='ru_RU'><Text>Хазарбед</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_PERSIA_4' Language='ru_RU'><Text>Пайган-салар</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_PERSIA_5' Language='ru_RU'><Text>Даригбед</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_PERSIA_6' Language='ru_RU'><Text>Марзбан</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_ROMAN_1' Language='ru_RU'><Text>Трибун</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_ROMAN_2' Language='ru_RU'><Text>Префект</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_ROMAN_3' Language='ru_RU'><Text>Центурион Примус</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_ROMAN_4' Language='ru_RU'><Text>Центурион</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_ROMAN_5' Language='ru_RU'><Text>Аквилифер</Text></Row>
+		<Row Tag='LOC_TCS_ANTIQUITY_ARMYRANK_PREFIX_ROMAN_6' Language='ru_RU'><Text>Оптион</Text></Row>
+	</LocalizedText>
+</Database>
