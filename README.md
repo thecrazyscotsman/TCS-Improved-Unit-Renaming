@@ -28,7 +28,7 @@ This is not meant to be completely serious, and silly names may be generated. I 
 
 ## Installation
 ### Recommended
-It is recommended to use the ![CivMods](https://civmods.com/) manager.
+It is recommended to use the [CivMods](https://civmods.com/) manager.
 ### Manual
 Extract to your Mods folder.
 * **Windows:** %localappdata%\Firaxis Games\Sid Meier's Civilization VII\Mods
